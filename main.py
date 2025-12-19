@@ -1,3 +1,6 @@
+# This script is used to generate solutions for a given trace file using the AutoFlows tool.
+# It is a modified version of the original AutoFlows script that is used to generate solutions for gem5 traces.
+
 import networkx as nx
 import time
 from src.graph.graph import Graph
@@ -23,7 +26,6 @@ if __name__ == '__main__':
     trace_f = ""
 
     # Uncomment corresponding lines to genearte solutions for different traces
-
     # For gem5 traces
 
     # Full system (FS) simulation traces
@@ -274,5 +276,4 @@ if __name__ == '__main__':
     #         print (i, " : ", notAccepted[i])
     #         totalNotAccepted += notAccepted[i]
     # print ("Not accepted in total = ", totalNotAccepted, "\n")
-
     exit()

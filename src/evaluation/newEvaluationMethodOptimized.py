@@ -1,6 +1,8 @@
 # In this evaluation method, we will try to find the first initial message and the closest corresponding terminal message. Then the sub-trace with the 
 # found initial and terminal message will be examined for the longest path that could be matched. If found, the instance will be removed from the trace 
 # and it will be added to the accepted flows. It will continue to find the other available flows in the trace file until there are no flows left in the trace file.
+# This is the new optimized version of the evaluation method that is proposed in the AutoModel paper.
+
 import networkx as nx 
 import matplotlib.pyplot as plt
 import numpy as np
