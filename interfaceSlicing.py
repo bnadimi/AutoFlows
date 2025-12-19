@@ -1,3 +1,5 @@
+# This script is used to slice the interface of the trace file
+
 import networkx as nx
 import time
 from src.graph.graph import Graph
