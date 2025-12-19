@@ -1,3 +1,5 @@
+# This script is used to find the local patterns in the trace file
+
 import os
 import networkx as nx
 
