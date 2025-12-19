@@ -1,0 +1,24 @@
+-------------------------
+File: unsliced-cpu0-dcache0.txt,
+ Group: cpu0-dcache0 Indices: (10, 19, 20, 23, 26, 28, 37, 38, 39, 40, 42, 58, 64)
+BinaryPatterns: (20, 23), Acceptance Ratio: 1.0
+BinaryPatterns: (37, 38), Acceptance Ratio: 1.0
+BinaryPatterns: (38, 39), Acceptance Ratio: 1.0
+BinaryPatterns: (39, 40), Acceptance Ratio: 1.0
+BinaryPatterns: (37, 40), Acceptance Ratio: 1.0
+BinaryPatterns: (10, 19), Acceptance Ratio: 1.0
+BinaryPatterns: (23, 20), Acceptance Ratio: 0.9999354630525976
+BinaryPatterns: (19, 10), Acceptance Ratio: 0.9998666311016271
+BinaryPatterns: (40, 37), Acceptance Ratio: 0.9827586206896551
+BinaryPatterns: (38, 37), Acceptance Ratio: 0.9827586206896551
+BinaryPatterns: (39, 38), Acceptance Ratio: 0.9827586206896551
+BinaryPatterns: (40, 39), Acceptance Ratio: 0.9827586206896551
+BinaryPatterns: (42, 39), Acceptance Ratio: 0.7272727272727273
+BinaryPatterns: (42, 37), Acceptance Ratio: 0.7272727272727273
+BinaryPatterns: (10, 23), Acceptance Ratio: 0.6521984951941895
+BinaryPatterns: (19, 20), Acceptance Ratio: 0.6521984951941895
+BinaryPatterns: (23, 10), Acceptance Ratio: 0.6517200887226547
+BinaryPatterns: (20, 19), Acceptance Ratio: 0.6517200887226547
+BinaryPatterns: (39, 42), Acceptance Ratio: 0.5151515151515151
+BinaryPatterns: (37, 42), Acceptance Ratio: 0.5151515151515151
+-------------------------

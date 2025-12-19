@@ -1,0 +1,12 @@
+-------------------------
+1. Pattern: [10, 12, 18, 19], Acceptance Ratio: 0.7733
+2. Pattern: [20, 12, 18, 23], Acceptance Ratio: 0.3992
+3. Pattern: [0, 2, 11, 17, 8, 9], Acceptance Ratio: 0.3080
+4. Pattern: [49, 54, 56, 52], Acceptance Ratio: 0.1802
+5. Pattern: [61, 50, 51, 69], Acceptance Ratio: 0.1241
+6. Pattern: [53, 50, 51, 57], Acceptance Ratio: 0.1064
+7. Pattern: [70, 50, 51, 71], Acceptance Ratio: 0.0870
+8. Pattern: [44, 46, 1, 7, 47, 48], Acceptance Ratio: 0.0253
+9. Pattern: [39, 12, 18, 40], Acceptance Ratio: 0.0240
+10. Pattern: [37, 21, 22, 38], Acceptance Ratio: 0.0104
+-------------------------

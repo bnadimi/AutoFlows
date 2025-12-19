@@ -1,0 +1,6 @@
+-------------------------
+File: unsliced-cpu2-icache2.txt,
+ Group: cpu2-icache2 Indices: (86, 89)
+BinaryPatterns: (86, 89), Acceptance Ratio: 1.0
+BinaryPatterns: (89, 86), Acceptance Ratio: 0.9999560265599577
+-------------------------

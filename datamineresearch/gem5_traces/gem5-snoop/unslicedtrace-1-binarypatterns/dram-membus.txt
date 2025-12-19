@@ -1,0 +1,8 @@
+-------------------------
+File: unsliced-dram-membus.txt,
+ Group: dram-membus Indices: (3, 5, 13, 15, 34)
+BinaryPatterns: (3, 5), Acceptance Ratio: 0.9998130491680688
+BinaryPatterns: (5, 3), Acceptance Ratio: 0.9994391475042064
+BinaryPatterns: (13, 15), Acceptance Ratio: 0.9969788519637462
+BinaryPatterns: (15, 13), Acceptance Ratio: 0.9954682779456193
+-------------------------

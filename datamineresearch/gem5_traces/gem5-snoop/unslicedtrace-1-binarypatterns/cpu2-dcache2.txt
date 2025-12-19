@@ -1,0 +1,24 @@
+-------------------------
+File: unsliced-cpu2-dcache2.txt,
+ Group: cpu2-dcache2 Indices: (90, 93, 94, 97, 98, 101, 102, 103, 104, 107, 111)
+BinaryPatterns: (98, 101), Acceptance Ratio: 1.0
+BinaryPatterns: (94, 97), Acceptance Ratio: 1.0
+BinaryPatterns: (90, 93), Acceptance Ratio: 1.0
+BinaryPatterns: (98, 103), Acceptance Ratio: 1.0
+BinaryPatterns: (101, 102), Acceptance Ratio: 1.0
+BinaryPatterns: (102, 103), Acceptance Ratio: 1.0
+BinaryPatterns: (97, 94), Acceptance Ratio: 0.9996585282567868
+BinaryPatterns: (93, 90), Acceptance Ratio: 0.9995408631772268
+BinaryPatterns: (98, 107), Acceptance Ratio: 0.875
+BinaryPatterns: (102, 107), Acceptance Ratio: 0.875
+BinaryPatterns: (102, 101), Acceptance Ratio: 0.8571428571428572
+BinaryPatterns: (103, 102), Acceptance Ratio: 0.8571428571428572
+BinaryPatterns: (101, 98), Acceptance Ratio: 0.8571428571428572
+BinaryPatterns: (103, 98), Acceptance Ratio: 0.8571428571428572
+BinaryPatterns: (102, 111), Acceptance Ratio: 0.7272727272727273
+BinaryPatterns: (98, 111), Acceptance Ratio: 0.7272727272727273
+BinaryPatterns: (90, 97), Acceptance Ratio: 0.5421281891723708
+BinaryPatterns: (93, 94), Acceptance Ratio: 0.5421281891723708
+BinaryPatterns: (97, 90), Acceptance Ratio: 0.5386434349719975
+BinaryPatterns: (94, 93), Acceptance Ratio: 0.5386434349719975
+-------------------------

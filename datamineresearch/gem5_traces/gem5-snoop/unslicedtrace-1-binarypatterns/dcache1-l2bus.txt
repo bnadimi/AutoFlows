@@ -1,0 +1,29 @@
+-------------------------
+File: unsliced-dcache1-l2bus.txt,
+ Group: dcache1-l2bus Indices: (50, 51, 54, 56, 66, 68, 73, 78, 79, 80, 84, 85)
+BinaryPatterns: (50, 51), Acceptance Ratio: 1.0
+BinaryPatterns: (66, 68), Acceptance Ratio: 1.0
+BinaryPatterns: (84, 85), Acceptance Ratio: 1.0
+BinaryPatterns: (80, 84), Acceptance Ratio: 1.0
+BinaryPatterns: (54, 56), Acceptance Ratio: 1.0
+BinaryPatterns: (68, 79), Acceptance Ratio: 1.0
+BinaryPatterns: (68, 66), Acceptance Ratio: 0.9984756097560976
+BinaryPatterns: (79, 68), Acceptance Ratio: 0.9923780487804879
+BinaryPatterns: (79, 78), Acceptance Ratio: 0.9798356982823002
+BinaryPatterns: (66, 78), Acceptance Ratio: 0.9798356982823002
+BinaryPatterns: (78, 79), Acceptance Ratio: 0.9798356982823002
+BinaryPatterns: (56, 54), Acceptance Ratio: 0.975
+BinaryPatterns: (78, 66), Acceptance Ratio: 0.9723674383868559
+BinaryPatterns: (51, 50), Acceptance Ratio: 0.9565217391304348
+BinaryPatterns: (85, 84), Acceptance Ratio: 0.8
+BinaryPatterns: (50, 56), Acceptance Ratio: 0.7301587301587302
+BinaryPatterns: (51, 54), Acceptance Ratio: 0.7301587301587302
+BinaryPatterns: (85, 73), Acceptance Ratio: 0.7142857142857143
+BinaryPatterns: (73, 80), Acceptance Ratio: 0.7142857142857143
+BinaryPatterns: (80, 73), Acceptance Ratio: 0.7142857142857143
+BinaryPatterns: (73, 85), Acceptance Ratio: 0.7142857142857143
+BinaryPatterns: (54, 51), Acceptance Ratio: 0.6666666666666667
+BinaryPatterns: (56, 50), Acceptance Ratio: 0.6666666666666667
+BinaryPatterns: (84, 80), Acceptance Ratio: 0.6
+BinaryPatterns: (50, 73), Acceptance Ratio: 0.5625
+-------------------------

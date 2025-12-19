@@ -1,0 +1,81 @@
+-------------------------
+File: trace-large-5-audio-membus.txt,
+ Group: audio-membus Indices: (5, 36, 39, 41, 48, 49, 58, 59)
+BinaryPatterns: ((58, 59), (39, 41), (5, 36), (48, 49)), Acceptance Ratio: 1.0
+BinaryPatterns: ((59, 58), (39, 41), (5, 36), (48, 49)), Acceptance Ratio: 0.9866666666666667
+BinaryPatterns: ((58, 59), (39, 41), (36, 5), (48, 49)), Acceptance Ratio: 0.9866666666666667
+BinaryPatterns: ((58, 59), (36, 39), (48, 49), (5, 41)), Acceptance Ratio: 0.9733333333333334
+BinaryPatterns: ((58, 59), (41, 39), (5, 36), (48, 49)), Acceptance Ratio: 0.9733333333333334
+BinaryPatterns: ((59, 58), (39, 41), (36, 5), (48, 49)), Acceptance Ratio: 0.9733333333333334
+--------------------------------------------------
+File: trace-large-5-cache0-cache1.txt,
+ Group: cache0-cache1 Indices: (7, 8, 11, 12, 16, 17, 19, 20)
+BinaryPatterns: ((16, 20), (8, 12), (17, 19), (7, 11)), Acceptance Ratio: 1.0
+BinaryPatterns: ((8, 12), (20, 16), (17, 19), (7, 11)), Acceptance Ratio: 0.9951456310679612
+BinaryPatterns: ((16, 20), (12, 8), (17, 19), (7, 11)), Acceptance Ratio: 0.9902912621359223
+BinaryPatterns: ((16, 20), (8, 12), (19, 17), (7, 11)), Acceptance Ratio: 0.9902912621359223
+BinaryPatterns: ((8, 12), (20, 16), (19, 17), (7, 11)), Acceptance Ratio: 0.9854368932038835
+BinaryPatterns: ((20, 16), (12, 8), (17, 19), (7, 11)), Acceptance Ratio: 0.9854368932038835
+--------------------------------------------------
+File: trace-large-5-cache0-cpu0.txt,
+ Group: cache0-cpu0 Indices: (0, 2, 25, 26)
+BinaryPatterns: ((2, 26), (0, 25)), Acceptance Ratio: 1.0
+BinaryPatterns: ((0, 25), (26, 2)), Acceptance Ratio: 0.962962962962963
+BinaryPatterns: ((0, 26), (25, 2)), Acceptance Ratio: 0.9259259259259259
+BinaryPatterns: ((0, 26), (2, 25)), Acceptance Ratio: 0.9259259259259259
+--------------------------------------------------
+File: trace-large-5-cache0-membus.txt,
+ Group: cache0-membus Indices: (9, 10, 13, 18, 21, 24, 27, 30)
+BinaryPatterns: ((10, 27), (21, 30), (9, 18), (13, 24)), Acceptance Ratio: 1.0
+BinaryPatterns: ((13, 30), (10, 27), (9, 18), (24, 21)), Acceptance Ratio: 0.9943181818181818
+BinaryPatterns: ((10, 27), (21, 30), (24, 13), (9, 18)), Acceptance Ratio: 0.9886363636363636
+BinaryPatterns: ((10, 27), (21, 30), (18, 9), (13, 24)), Acceptance Ratio: 0.9886363636363636
+BinaryPatterns: ((30, 21), (10, 27), (9, 18), (13, 24)), Acceptance Ratio: 0.9886363636363636
+BinaryPatterns: ((13, 30), (10, 27), (18, 9), (24, 21)), Acceptance Ratio: 0.9829545454545454
+--------------------------------------------------
+File: trace-large-5-cache1-cpu1.txt,
+ Group: cache1-cpu1 Indices: (1, 3, 29, 32)
+BinaryPatterns: ((3, 32), (1, 29)), Acceptance Ratio: 1.0
+BinaryPatterns: ((32, 3), (1, 29)), Acceptance Ratio: 0.9814814814814815
+BinaryPatterns: ((29, 3), (1, 32)), Acceptance Ratio: 0.962962962962963
+BinaryPatterns: ((3, 29), (1, 32)), Acceptance Ratio: 0.8518518518518519
+--------------------------------------------------
+File: trace-large-5-cache1-membus.txt,
+ Group: cache1-membus Indices: (14, 22, 28, 31)
+BinaryPatterns: ((22, 31), (14, 28)), Acceptance Ratio: 1.0
+BinaryPatterns: ((14, 28), (31, 22)), Acceptance Ratio: 0.972972972972973
+--------------------------------------------------
+File: trace-large-5-gfx-membus.txt,
+ Group: gfx-membus Indices: (4, 35, 38, 40, 54, 55, 56, 57)
+BinaryPatterns: ((54, 55), (38, 40), (4, 35), (56, 57)), Acceptance Ratio: 1.0
+BinaryPatterns: ((4, 35), (55, 40), (56, 57), (54, 38)), Acceptance Ratio: 1.0
+BinaryPatterns: ((55, 35), (38, 40), (56, 57), (54, 4)), Acceptance Ratio: 1.0
+BinaryPatterns: ((54, 55), (38, 40), (57, 56), (4, 35)), Acceptance Ratio: 0.9863013698630136
+BinaryPatterns: ((55, 35), (38, 40), (57, 56), (54, 4)), Acceptance Ratio: 0.9863013698630136
+BinaryPatterns: ((57, 56), (4, 35), (55, 40), (54, 38)), Acceptance Ratio: 0.9863013698630136
+BinaryPatterns: ((40, 38), (55, 35), (56, 57), (54, 4)), Acceptance Ratio: 0.9726027397260274
+BinaryPatterns: ((40, 38), (54, 55), (4, 35), (56, 57)), Acceptance Ratio: 0.9726027397260274
+--------------------------------------------------
+File: trace-large-5-mem-membus.txt,
+ Group: mem-membus Indices: (15, 23, 33, 34)
+BinaryPatterns: ((33, 34), (15, 23)), Acceptance Ratio: 1.0
+BinaryPatterns: ((34, 33), (15, 23)), Acceptance Ratio: 0.9761904761904762
+--------------------------------------------------
+File: trace-large-5-membus-uart.txt,
+ Group: membus-uart Indices: (42, 43, 46, 47, 50, 51)
+BinaryPatterns: ((50, 51), (42, 43), (46, 47)), Acceptance Ratio: 1.0
+BinaryPatterns: ((47, 46), (50, 51), (42, 43)), Acceptance Ratio: 0.9833333333333333
+BinaryPatterns: ((51, 50), (42, 43), (46, 47)), Acceptance Ratio: 0.9833333333333333
+BinaryPatterns: ((47, 46), (51, 50), (42, 43)), Acceptance Ratio: 0.9666666666666667
+BinaryPatterns: ((47, 43), (50, 51), (42, 46)), Acceptance Ratio: 0.8333333333333334
+BinaryPatterns: ((47, 43), (51, 50), (42, 46)), Acceptance Ratio: 0.8166666666666667
+--------------------------------------------------
+File: trace-large-5-membus-usb.txt,
+ Group: membus-usb Indices: (6, 37, 44, 45, 52, 53)
+BinaryPatterns: ((52, 53), (6, 37), (44, 45)), Acceptance Ratio: 1.0
+BinaryPatterns: ((6, 37), (44, 45), (53, 52)), Acceptance Ratio: 0.9821428571428571
+BinaryPatterns: ((52, 53), (6, 37), (45, 44)), Acceptance Ratio: 0.9821428571428571
+BinaryPatterns: ((6, 37), (53, 52), (45, 44)), Acceptance Ratio: 0.9642857142857143
+BinaryPatterns: ((44, 45), (6, 52), (37, 53)), Acceptance Ratio: 0.8928571428571429
+BinaryPatterns: ((6, 52), (45, 44), (37, 53)), Acceptance Ratio: 0.875
+-------------------------

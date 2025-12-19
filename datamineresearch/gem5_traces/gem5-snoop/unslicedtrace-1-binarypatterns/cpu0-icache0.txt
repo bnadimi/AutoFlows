@@ -1,0 +1,6 @@
+-------------------------
+File: unsliced-cpu0-icache0.txt,
+ Group: cpu0-icache0 Indices: (0, 9)
+BinaryPatterns: (0, 9), Acceptance Ratio: 1.0
+BinaryPatterns: (9, 0), Acceptance Ratio: 0.9999938519802771
+-------------------------

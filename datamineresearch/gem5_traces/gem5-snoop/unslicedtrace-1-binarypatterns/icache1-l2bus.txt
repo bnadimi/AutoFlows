@@ -1,0 +1,7 @@
+-------------------------
+File: unsliced-icache1-l2bus.txt,
+ Group: icache1-l2bus Indices: (46, 47, 81, 82)
+BinaryPatterns: (46, 47), Acceptance Ratio: 1.0
+BinaryPatterns: (47, 46), Acceptance Ratio: 0.9917355371900827
+BinaryPatterns: (46, 81), Acceptance Ratio: 0.9603174603174603
+-------------------------

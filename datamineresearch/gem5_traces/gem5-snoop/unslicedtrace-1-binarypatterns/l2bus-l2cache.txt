@@ -1,0 +1,17 @@
+-------------------------
+File: unsliced-l2bus-l2cache.txt,
+ Group: l2bus-l2cache Indices: (1, 7, 11, 17, 24, 29, 31, 33, 63, 75)
+BinaryPatterns: (1, 7), Acceptance Ratio: 1.0
+BinaryPatterns: (7, 1), Acceptance Ratio: 0.9994153756211634
+BinaryPatterns: (11, 17), Acceptance Ratio: 0.9992800575953924
+BinaryPatterns: (17, 11), Acceptance Ratio: 0.9978401727861771
+BinaryPatterns: (17, 63), Acceptance Ratio: 0.987600291757841
+BinaryPatterns: (63, 75), Acceptance Ratio: 0.9827197595792637
+BinaryPatterns: (75, 63), Acceptance Ratio: 0.9812171299774606
+BinaryPatterns: (11, 75), Acceptance Ratio: 0.9696071163825055
+BinaryPatterns: (7, 24), Acceptance Ratio: 0.768981648074847
+BinaryPatterns: (24, 7), Acceptance Ratio: 0.7686218064051817
+BinaryPatterns: (29, 75), Acceptance Ratio: 0.7365384615384616
+BinaryPatterns: (17, 29), Acceptance Ratio: 0.7148148148148148
+BinaryPatterns: (29, 17), Acceptance Ratio: 0.5944444444444444
+-------------------------

@@ -1,0 +1,44 @@
+-------------------------
+1. Pattern: [48, 49], Acceptance Ratio: 1.0000
+2. Pattern: [58, 59], Acceptance Ratio: 1.0000
+3. Pattern: [39, 41], Acceptance Ratio: 1.0000
+4. Pattern: [5, 36], Acceptance Ratio: 1.0000
+5. Pattern: [16, 20], Acceptance Ratio: 1.0000
+6. Pattern: [8, 12], Acceptance Ratio: 1.0000
+7. Pattern: [17, 19], Acceptance Ratio: 1.0000
+8. Pattern: [7, 11], Acceptance Ratio: 1.0000
+9. Pattern: [2, 26], Acceptance Ratio: 1.0000
+10. Pattern: [0, 25], Acceptance Ratio: 1.0000
+11. Pattern: [10, 27], Acceptance Ratio: 1.0000
+12. Pattern: [21, 30], Acceptance Ratio: 1.0000
+13. Pattern: [9, 18], Acceptance Ratio: 1.0000
+14. Pattern: [13, 24], Acceptance Ratio: 1.0000
+15. Pattern: [3, 32], Acceptance Ratio: 1.0000
+16. Pattern: [1, 29], Acceptance Ratio: 1.0000
+17. Pattern: [22, 31], Acceptance Ratio: 1.0000
+18. Pattern: [14, 28], Acceptance Ratio: 1.0000
+19. Pattern: [54, 55], Acceptance Ratio: 1.0000
+20. Pattern: [38, 40], Acceptance Ratio: 1.0000
+21. Pattern: [4, 35], Acceptance Ratio: 1.0000
+22. Pattern: [56, 57], Acceptance Ratio: 1.0000
+23. Pattern: [15, 23], Acceptance Ratio: 1.0000
+24. Pattern: [33, 34], Acceptance Ratio: 1.0000
+25. Pattern: [46, 47], Acceptance Ratio: 1.0000
+26. Pattern: [50, 51], Acceptance Ratio: 1.0000
+27. Pattern: [42, 43], Acceptance Ratio: 1.0000
+28. Pattern: [52, 53], Acceptance Ratio: 1.0000
+29. Pattern: [6, 37], Acceptance Ratio: 1.0000
+30. Pattern: [44, 45], Acceptance Ratio: 1.0000
+31. Pattern: [21, 24], Acceptance Ratio: 0.9516
+32. Pattern: [26, 25], Acceptance Ratio: 0.9291
+33. Pattern: [25, 36], Acceptance Ratio: 0.9126
+34. Pattern: [25, 41], Acceptance Ratio: 0.9111
+35. Pattern: [30, 13], Acceptance Ratio: 0.8860
+36. Pattern: [18, 12], Acceptance Ratio: 0.8485
+37. Pattern: [11, 2, 26], Acceptance Ratio: 0.8310
+38. Pattern: [11, 18], Acceptance Ratio: 0.6578
+39. Pattern: [7, 9], Acceptance Ratio: 0.6547
+40. Pattern: [58, 39], Acceptance Ratio: 0.2746
+41. Pattern: [56, 29], Acceptance Ratio: 0.2455
+42. Pattern: [58, 49, 48], Acceptance Ratio: 0.1940
+-------------------------

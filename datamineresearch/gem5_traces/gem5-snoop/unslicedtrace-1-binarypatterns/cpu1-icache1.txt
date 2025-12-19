@@ -1,0 +1,6 @@
+-------------------------
+File: unsliced-cpu1-icache1.txt,
+ Group: cpu1-icache1 Indices: (44, 48)
+BinaryPatterns: (44, 48), Acceptance Ratio: 1.0
+BinaryPatterns: (48, 44), Acceptance Ratio: 0.9999044251170792
+-------------------------

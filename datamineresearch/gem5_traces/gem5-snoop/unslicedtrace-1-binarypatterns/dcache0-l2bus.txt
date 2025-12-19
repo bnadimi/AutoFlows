@@ -1,0 +1,41 @@
+-------------------------
+File: unsliced-dcache0-l2bus.txt,
+ Group: dcache0-l2bus Indices: (12, 18, 21, 22, 27, 30, 41, 43, 55, 59, 60, 65, 67, 74, 76)
+BinaryPatterns: (12, 18), Acceptance Ratio: 1.0
+BinaryPatterns: (74, 76), Acceptance Ratio: 1.0
+BinaryPatterns: (21, 22), Acceptance Ratio: 1.0
+BinaryPatterns: (22, 21), Acceptance Ratio: 0.9993434011818779
+BinaryPatterns: (18, 12), Acceptance Ratio: 0.9985119047619048
+BinaryPatterns: (65, 67), Acceptance Ratio: 0.9655172413793104
+BinaryPatterns: (60, 76), Acceptance Ratio: 0.96
+BinaryPatterns: (41, 60), Acceptance Ratio: 0.9285714285714286
+BinaryPatterns: (59, 60), Acceptance Ratio: 0.9285714285714286
+BinaryPatterns: (67, 76), Acceptance Ratio: 0.9230769230769231
+BinaryPatterns: (76, 74), Acceptance Ratio: 0.9166666666666666
+BinaryPatterns: (18, 27), Acceptance Ratio: 0.9151138716356108
+BinaryPatterns: (67, 59), Acceptance Ratio: 0.896551724137931
+BinaryPatterns: (67, 65), Acceptance Ratio: 0.896551724137931
+BinaryPatterns: (41, 74), Acceptance Ratio: 0.8888888888888888
+BinaryPatterns: (65, 74), Acceptance Ratio: 0.8888888888888888
+BinaryPatterns: (59, 74), Acceptance Ratio: 0.8888888888888888
+BinaryPatterns: (55, 43), Acceptance Ratio: 0.8702290076335878
+BinaryPatterns: (43, 55), Acceptance Ratio: 0.8702290076335878
+BinaryPatterns: (60, 59), Acceptance Ratio: 0.8571428571428572
+BinaryPatterns: (41, 67), Acceptance Ratio: 0.8275862068965517
+BinaryPatterns: (65, 60), Acceptance Ratio: 0.7857142857142857
+BinaryPatterns: (18, 30), Acceptance Ratio: 0.7296786389413988
+BinaryPatterns: (60, 65), Acceptance Ratio: 0.7142857142857143
+BinaryPatterns: (59, 67), Acceptance Ratio: 0.6896551724137931
+BinaryPatterns: (22, 27), Acceptance Ratio: 0.6756521739130434
+BinaryPatterns: (27, 22), Acceptance Ratio: 0.6391304347826087
+BinaryPatterns: (22, 12), Acceptance Ratio: 0.6068337129840546
+BinaryPatterns: (21, 18), Acceptance Ratio: 0.6068337129840546
+BinaryPatterns: (18, 21), Acceptance Ratio: 0.5867881548974943
+BinaryPatterns: (12, 22), Acceptance Ratio: 0.5867881548974943
+BinaryPatterns: (30, 18), Acceptance Ratio: 0.5652173913043479
+BinaryPatterns: (76, 60), Acceptance Ratio: 0.56
+BinaryPatterns: (67, 41), Acceptance Ratio: 0.5517241379310345
+BinaryPatterns: (76, 67), Acceptance Ratio: 0.5384615384615384
+BinaryPatterns: (74, 59), Acceptance Ratio: 0.5185185185185186
+BinaryPatterns: (74, 65), Acceptance Ratio: 0.5185185185185186
+-------------------------
