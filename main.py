@@ -112,6 +112,13 @@ if __name__ == '__main__':
     # trace_f = ['./traces/fromTCAD/gem5/threads/unsliced/unsliced-RubelPrintFormat.jbl']
 
 
+    def_f = './traces/synthetic/newLarge.msg'
+    # trace_f = ['/home/bardia/GitHub/AutoFlows/interface_sliced_traces/trace-large-5/interface_sliced_v3_audio_membus.txt']
+    trace_f = ['/home/bardia/GitHub/AutoFlows/interface_sliced_traces/trace-large-5/interface_sliced_v3_gfx_membus.txt']
+    
+    def_f   = './traces/fromTCAD/gem5/snoop/definition/defSnoop-RubelPrintFormat.msg'
+    trace_f = ['/home/bardia/GitHub/AutoFlows/interface_sliced_traces/unsliced-RubelPrintFormat/interface_sliced_v3_cpu0_dcache0.txt']
+
     # essential_mode = False
     # essential_edges_array = []
     # if (essential_mode == True):
@@ -188,8 +195,7 @@ if __name__ == '__main__':
     specialCounter = 0
     newReducedTrace = []
     print("Number of tokens (messages): ", len(graph.trace_tokens))
-    # print(graph.trace_tokens)
-    # exit()
+
     j = 0
     # for i in range(len(graph.trace_tokens)):
     while j < len(graph.trace_tokens):

@@ -7,6 +7,7 @@ from src.logging import *
 from src.evaluation.newEvaluationMethod import newEvaluationMethod
 import functions
 from datetime import timedelta
+import os 
 
 start_time = time.time()
 
@@ -79,10 +80,10 @@ if __name__ == '__main__':
     # trace_f = ['./traces/synthetic/trace-small-5-New.txt']
     # trace_f = ['./traces/synthetic/trace-small-test.txt']
     # trace_f = ['./traces/synthetic/trace-small-test2.txt']
-    # trace_f = ['./traces/synthetic/trace-small-test3.txt']
+    trace_f = ['./traces/synthetic/trace-small-test3.txt']
 
     # large traces
-    trace_f = ['./traces/synthetic/trace-large-5.txt']
+    # trace_f = ['./traces/synthetic/trace-large-5.txt']
     # trace_f = ['./traces/synthetic/trace-large-10.txt']
     # trace_f = ['./traces/synthetic/trace-large-20.txt']
     # trace_f = ['./traces/synthetic/new-trace-large-20.txt']
@@ -91,10 +92,16 @@ if __name__ == '__main__':
     # trace_f = ['./traces/synthetic/Test/testTrace.txt']
 
     # For Testing 
-    def_f = './traces/ForTest/testDefinitionFile.txt'
-    trace_f = ['./traces/ForTest/testTrace.txt']
+    # def_f = './traces/ForTest/testDefinitionFile.txt'
+    # trace_f = ['./traces/ForTest/testTrace.txt']
+
     # def_f = './traces/ForTest/L3cacheTestDefinitionFile.txt'
     # trace_f = ['./traces/ForTest/L3cacheTestTrace.txt']
+
+    # def_f   = './traces/fromTCAD/gem5/snoop/definition/defSnoop-RubelPrintFormat.msg'
+    # trace_f = ['./traces/fromTCAD/gem5/snoop/unsliced/unsliced-RubelPrintFormat.jbl']
+    # def_f   = './traces/fromTCAD/gem5/snoop/definition/defSnoop-RubelPrintFormat.msg'
+    # trace_f = ['/home/bardia/GitHub/AutoFlows/interface_sliced_traces/unsliced-RubelPrintFormat/interface_sliced_v3_dcache0_l2bus.txt']
 
     # traceType = "synthetic"
     # traceType = "gem5"
@@ -121,13 +128,137 @@ if __name__ == '__main__':
         print("Added window slicing...window size: ", graph.window_size)
         print()
 
-    log('Reading the message definition file %s... ' % def_f)
+    log('Reading the message definition file %s... \n' % def_f)
     if def_f=="":
         exit()
     graph.read_message_file(def_f)
     log('Done\n\n')
+    print("Interfaces = ", graph.interfaces)
 
     traces = None
     log('Reading the trace file(s) %s... ' % trace_f)
     graph.read_trace_file_list(trace_f)
     log('Trace reading and processing status: Done\n\n')
+    print(f"Length of trace from inside interfaceSlicing.py = {len(graph.trace_tokens)}")
+    print(graph.interfaces)
+    # exit()
+
+
+    # Prepare output files for each interface, and a mapping from message to the correct file
+    interface_files = []
+    message_to_file = {}
+    
+    ##############################################################################################################################################  Slicing traces based on the interfaces ################################################################
+    # Extract the main trace file's name without extension or directories
+    if isinstance(trace_f, list) and len(trace_f) > 0:
+        trace_path = trace_f[0]
+    elif isinstance(trace_f, str):
+        trace_path = trace_f
+    else:
+        trace_path = "not_found"
+
+    base_name = os.path.basename(trace_path)
+    folder_name = os.path.splitext(base_name)[0]
+
+    # Ensure the central output folder exists
+    main_folder = "interface_sliced_traces"
+    if not os.path.exists(main_folder):
+        os.makedirs(main_folder)
+
+    # Make a subfolder per trace, e.g. interface_sliced_traces/[trace name]/
+    output_folder = os.path.join(main_folder, folder_name)
+    if folder_name and not os.path.exists(output_folder):
+        os.makedirs(output_folder)
+
+    # Change the working directory to the intended subfolder for subsequent output
+    os.chdir(output_folder)
+    # exit()
+
+    # First, open one file for each interface and build message -> file mapping
+    for i, interface in enumerate(graph.interfaces):
+        print(f"Length of interface {interface['pairs']} = {len(interface['list'])}")
+        filename = f"interface_sliced_v3_{interface['pairs'][0]}_{interface['pairs'][1]}.txt"
+        f = open(filename, "a")
+        interface_files.append(f)
+        for message in interface['list']:
+            # map message to its interface file handler
+            message_to_file[message] = f
+
+    # Iterate over trace_tokens only once. Route each message to its interface file (if any)
+    for message in graph.trace_tokens:
+        output_file = message_to_file.get(message)
+        if output_file is not None:
+            output_file.write(str(message) + " ")
+
+    # After writing all messages, write a newline and close all files
+    for output_file in interface_files:
+        output_file.write("\n")
+        output_file.close()
+    ##############################################################################################################################################  Slicing traces based on the interfaces end ############################################################
+
+    exit()
+
+
+
+    ############################################################################################################################################## By Bardia Start for interface slicing 
+    all_permutations = []
+    print(f"The number of interfaces is {len(graph.interfaces)}")
+    print(f"The interfaces are {graph.interfaces}")
+    for interface in graph.interfaces:
+        for index in interface['list']:
+            for next_index in interface['list']:
+                if index != next_index:
+                    # print(f"{index}_{next_index}")
+                    all_permutations.append(f"{index}_{next_index}")
+    print(f"The number of permutations is {len(all_permutations)}")
+    print(f"The permutations are {all_permutations}")
+
+    # for edge in graph.edges:
+    #     print(f"The edge is {edge}")
+    present_permutations = []
+    for permutation in all_permutations:
+        if permutation in graph.edges:
+            edge = graph.edges.get(permutation)
+            # print(f"The permutation {permutation} is in the edges")
+            anInstance = {'id': permutation, 'support': edge.support, 'fconf': (edge.forward_conf), 'bconf': (edge.backward_conf), 'hconf': (edge.mean_conf)}
+            present_permutations.append(anInstance)
+        # else:
+        #     print(f"The permutation {permutation} is not in the edges")
+    print(f"The number of present permutations is {len(present_permutations)}")
+    # print(f"The present permutations are {present_permutations}")
+    mean_fconf = 0
+    mean_bconf = 0
+    mean_hconf = 0
+    for instance in present_permutations:
+        id    = "{0:<10}".format(str(instance['id']))
+        sup   = "{0:<6}".format(str(instance['support']))
+        fconf = "{0:<6}".format(str(round(instance['fconf'], 2)))
+        bconf = "{0:<6}".format(str(round(instance['bconf'], 2)))
+        hconf = "{0:<6}".format(str(round(instance['hconf'], 2)))
+        mean_fconf += instance['fconf']
+        mean_bconf += instance['bconf']
+        mean_hconf += instance['hconf']
+        print(f"{id} {fconf} {bconf} {hconf}")
+    mean_fconf /= len(present_permutations)
+    mean_bconf /= len(present_permutations)
+    mean_hconf /= len(present_permutations)
+    print(f"The mean fconf is {mean_fconf}")
+    print(f"The mean bconf is {mean_bconf}")
+    print(f"The mean hconf is {mean_hconf}")
+    print(f"Length of present_permutations is {len(present_permutations)}")
+    # Remove instances from present_permutations that are less than mean fconf and bconf
+    present_permutations = [
+        instance for instance in present_permutations
+        if instance['fconf'] >= mean_fconf and instance['bconf'] >= mean_bconf and instance['hconf'] >= mean_hconf
+    ]
+    print(f"The number of present permutations after filtering is {len(present_permutations)}")
+    print(f"The present permutations after filtering:")
+    for instance in present_permutations:
+        id    = "{0:<10}".format(str(instance['id']))
+        sup   = "{0:<6}".format(str(instance['support']))
+        fconf = "{0:<6}".format(str(round(instance['fconf'], 2)))
+        bconf = "{0:<6}".format(str(round(instance['bconf'], 2)))
+        hconf = "{0:<6}".format(str(round(instance['hconf'], 2)))
+        print(f"{id} {fconf} {bconf} {hconf}")
+    ############################################################################################################################################## By Bardia end
+

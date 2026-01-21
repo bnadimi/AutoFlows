@@ -1,0 +1,4179 @@
+
+Start Time =16:55:05
+	------------------------------------------------------------------Creating the Finite State Machine------------------------------------------------------------------
+	Done creating the Finite State Machine!
+	----------------------------------------------------------------From now on we are testing the parser----------------------------------------------------------------
+
+	Current Time =16:55:05
+	Trace number 0 : 
+	Accepted Events Number = 514706
+	Total number of events = 555460
+	Number of traces = 1
+	The final answer is : 0.9266301803910273
+
+End Time =16:55:07
+
+
+
+
+
+
+
+
+Start Time =16:55:07
+	------------------------------------------------------------------Creating the Finite State Machine------------------------------------------------------------------
+	Done creating the Finite State Machine!
+	----------------------------------------------------------------From now on we are testing the parser----------------------------------------------------------------
+
+	Current Time =16:55:07
+	Trace number 0 : 
+	Accepted Events Number = 514706
+	Total number of events = 555460
+	Number of traces = 1
+	The final answer is : 0.9266301803910273
+
+End Time =16:55:08
+
+
+
+
+
+
+
+
+Start Time =16:55:08
+	------------------------------------------------------------------Creating the Finite State Machine------------------------------------------------------------------
+	Done creating the Finite State Machine!
+	----------------------------------------------------------------From now on we are testing the parser----------------------------------------------------------------
+
+	Current Time =16:55:08
+	Trace number 0 : 
+	Accepted Events Number = 514706
+	Total number of events = 555460
+	Number of traces = 1
+	The final answer is : 0.9266301803910273
+
+End Time =16:55:10
+
+
+
+
+
+
+
+
+Start Time =16:55:10
+	------------------------------------------------------------------Creating the Finite State Machine------------------------------------------------------------------
+	Done creating the Finite State Machine!
+	----------------------------------------------------------------From now on we are testing the parser----------------------------------------------------------------
+
+	Current Time =16:55:10
+	Trace number 0 : 
+	Accepted Events Number = 514706
+	Total number of events = 555460
+	Number of traces = 1
+	The final answer is : 0.9266301803910273
+
+End Time =16:55:11
+
+
+
+
+
+
+
+
+Start Time =16:55:11
+	------------------------------------------------------------------Creating the Finite State Machine------------------------------------------------------------------
+	Done creating the Finite State Machine!
+	----------------------------------------------------------------From now on we are testing the parser----------------------------------------------------------------
+
+	Current Time =16:55:12
+	Trace number 0 : 
+	Accepted Events Number = 514706
+	Total number of events = 555460
+	Number of traces = 1
+	The final answer is : 0.9266301803910273
+
+End Time =16:55:13
+
+
+
+
+
+
+
+
+Start Time =16:55:13
+	------------------------------------------------------------------Creating the Finite State Machine------------------------------------------------------------------
+	Done creating the Finite State Machine!
+	----------------------------------------------------------------From now on we are testing the parser----------------------------------------------------------------
+
+	Current Time =16:55:13
+	Trace number 0 : 
+	Accepted Events Number = 514706
+	Total number of events = 555460
+	Number of traces = 1
+	The final answer is : 0.9266301803910273
+
+End Time =16:55:14
+
+
+
+
+
+
+
+
+Start Time =16:55:14
+	------------------------------------------------------------------Creating the Finite State Machine------------------------------------------------------------------
+	Done creating the Finite State Machine!
+	----------------------------------------------------------------From now on we are testing the parser----------------------------------------------------------------
+
+	Current Time =16:55:14
+	Trace number 0 : 
+	Accepted Events Number = 514706
+	Total number of events = 555460
+	Number of traces = 1
+	The final answer is : 0.9266301803910273
+
+End Time =16:55:16
+
+
+
+
+
+
+
+
+Start Time =16:55:16
+	------------------------------------------------------------------Creating the Finite State Machine------------------------------------------------------------------
+	Done creating the Finite State Machine!
+	----------------------------------------------------------------From now on we are testing the parser----------------------------------------------------------------
+
+	Current Time =16:55:16
+	Trace number 0 : 
+	Accepted Events Number = 514706
+	Total number of events = 555460
+	Number of traces = 1
+	The final answer is : 0.9266301803910273
+
+End Time =16:55:17
+
+
+
+
+
+
+
+
+Start Time =16:55:17
+	------------------------------------------------------------------Creating the Finite State Machine------------------------------------------------------------------
+	Done creating the Finite State Machine!
+	----------------------------------------------------------------From now on we are testing the parser----------------------------------------------------------------
+
+	Current Time =16:55:17
+	Trace number 0 : 
+	Accepted Events Number = 514706
+	Total number of events = 555460
+	Number of traces = 1
+	The final answer is : 0.9266301803910273
+
+End Time =16:55:18
+
+
+
+
+
+
+
+
+Start Time =16:55:18
+	------------------------------------------------------------------Creating the Finite State Machine------------------------------------------------------------------
+	Done creating the Finite State Machine!
+	----------------------------------------------------------------From now on we are testing the parser----------------------------------------------------------------
+
+	Current Time =16:55:18
+	Trace number 0 : 
+	Accepted Events Number = 514706
+	Total number of events = 555460
+	Number of traces = 1
+	The final answer is : 0.9266301803910273
+
+End Time =16:55:20
+
+
+
+
+
+
+
+
+Start Time =16:55:20
+	------------------------------------------------------------------Creating the Finite State Machine------------------------------------------------------------------
+	Done creating the Finite State Machine!
+	----------------------------------------------------------------From now on we are testing the parser----------------------------------------------------------------
+
+	Current Time =16:55:20
+	Trace number 0 : 
+	Accepted Events Number = 514706
+	Total number of events = 555460
+	Number of traces = 1
+	The final answer is : 0.9266301803910273
+
+End Time =16:55:21
+
+
+
+
+
+
+
+
+Start Time =16:55:21
+	------------------------------------------------------------------Creating the Finite State Machine------------------------------------------------------------------
+	Done creating the Finite State Machine!
+	----------------------------------------------------------------From now on we are testing the parser----------------------------------------------------------------
+
+	Current Time =16:55:21
+	Trace number 0 : 
+	Accepted Events Number = 514714
+	Total number of events = 555460
+	Number of traces = 1
+	The final answer is : 0.9266445828682534
+
+End Time =16:55:23
+
+
+
+
+
+
+
+
+Start Time =16:55:23
+	------------------------------------------------------------------Creating the Finite State Machine------------------------------------------------------------------
+	Done creating the Finite State Machine!
+	----------------------------------------------------------------From now on we are testing the parser----------------------------------------------------------------
+
+	Current Time =16:55:23
+	Trace number 0 : 
+	Accepted Events Number = 514742
+	Total number of events = 555460
+	Number of traces = 1
+	The final answer is : 0.9266949915385446
+
+End Time =16:55:24
+
+
+
+
+
+
+
+
+Start Time =16:55:24
+	------------------------------------------------------------------Creating the Finite State Machine------------------------------------------------------------------
+	Done creating the Finite State Machine!
+	----------------------------------------------------------------From now on we are testing the parser----------------------------------------------------------------
+
+	Current Time =16:55:24
+	Trace number 0 : 
+	Accepted Events Number = 514742
+	Total number of events = 555460
+	Number of traces = 1
+	The final answer is : 0.9266949915385446
+
+End Time =16:55:25
+
+
+
+
+
+
+
+
+Start Time =16:55:25
+	------------------------------------------------------------------Creating the Finite State Machine------------------------------------------------------------------
+	Done creating the Finite State Machine!
+	----------------------------------------------------------------From now on we are testing the parser----------------------------------------------------------------
+
+	Current Time =16:55:25
+	Trace number 0 : 
+	Accepted Events Number = 514742
+	Total number of events = 555460
+	Number of traces = 1
+	The final answer is : 0.9266949915385446
+
+End Time =16:55:27
+
+
+
+
+
+
+
+
+Start Time =16:55:27
+	------------------------------------------------------------------Creating the Finite State Machine------------------------------------------------------------------
+	Done creating the Finite State Machine!
+	----------------------------------------------------------------From now on we are testing the parser----------------------------------------------------------------
+
+	Current Time =16:55:27
+	Trace number 0 : 
+	Accepted Events Number = 514742
+	Total number of events = 555460
+	Number of traces = 1
+	The final answer is : 0.9266949915385446
+
+End Time =16:55:29
+
+
+
+
+
+
+
+
+Start Time =16:55:29
+	------------------------------------------------------------------Creating the Finite State Machine------------------------------------------------------------------
+	Done creating the Finite State Machine!
+	----------------------------------------------------------------From now on we are testing the parser----------------------------------------------------------------
+
+	Current Time =16:55:29
+	Trace number 0 : 
+	Accepted Events Number = 514800
+	Total number of events = 555460
+	Number of traces = 1
+	The final answer is : 0.9267994094984338
+
+End Time =16:55:30
+
+
+
+
+
+
+
+
+Start Time =16:55:30
+	------------------------------------------------------------------Creating the Finite State Machine------------------------------------------------------------------
+	Done creating the Finite State Machine!
+	----------------------------------------------------------------From now on we are testing the parser----------------------------------------------------------------
+
+	Current Time =16:55:30
+	Trace number 0 : 
+	Accepted Events Number = 514806
+	Total number of events = 555460
+	Number of traces = 1
+	The final answer is : 0.9268102113563533
+
+End Time =16:55:31
+
+
+
+
+
+
+
+
+Start Time =16:55:31
+	------------------------------------------------------------------Creating the Finite State Machine------------------------------------------------------------------
+	Done creating the Finite State Machine!
+	----------------------------------------------------------------From now on we are testing the parser----------------------------------------------------------------
+
+	Current Time =16:55:31
+	Trace number 0 : 
+	Accepted Events Number = 514806
+	Total number of events = 555460
+	Number of traces = 1
+	The final answer is : 0.9268102113563533
+
+End Time =16:55:33
+
+
+
+
+
+
+
+
+Start Time =16:55:33
+	------------------------------------------------------------------Creating the Finite State Machine------------------------------------------------------------------
+	Done creating the Finite State Machine!
+	----------------------------------------------------------------From now on we are testing the parser----------------------------------------------------------------
+
+	Current Time =16:55:33
+	Trace number 0 : 
+	Accepted Events Number = 514806
+	Total number of events = 555460
+	Number of traces = 1
+	The final answer is : 0.9268102113563533
+
+End Time =16:55:34
+
+
+
+
+
+
+
+
+Start Time =16:55:34
+	------------------------------------------------------------------Creating the Finite State Machine------------------------------------------------------------------
+	Done creating the Finite State Machine!
+	----------------------------------------------------------------From now on we are testing the parser----------------------------------------------------------------
+
+	Current Time =16:55:34
+	Trace number 0 : 
+	Accepted Events Number = 514806
+	Total number of events = 555460
+	Number of traces = 1
+	The final answer is : 0.9268102113563533
+
+End Time =16:55:36
+
+
+
+
+
+
+
+
+Start Time =16:55:36
+	------------------------------------------------------------------Creating the Finite State Machine------------------------------------------------------------------
+	Done creating the Finite State Machine!
+	----------------------------------------------------------------From now on we are testing the parser----------------------------------------------------------------
+
+	Current Time =16:55:36
+	Trace number 0 : 
+	Accepted Events Number = 514834
+	Total number of events = 555460
+	Number of traces = 1
+	The final answer is : 0.9268606200266446
+
+End Time =16:55:37
+
+
+
+
+
+
+
+
+Start Time =16:55:37
+	------------------------------------------------------------------Creating the Finite State Machine------------------------------------------------------------------
+	Done creating the Finite State Machine!
+	----------------------------------------------------------------From now on we are testing the parser----------------------------------------------------------------
+
+	Current Time =16:55:37
+	Trace number 0 : 
+	Accepted Events Number = 514850
+	Total number of events = 555460
+	Number of traces = 1
+	The final answer is : 0.9268894249810967
+
+End Time =16:55:38
+
+
+
+
+
+
+
+
+Start Time =16:55:38
+	------------------------------------------------------------------Creating the Finite State Machine------------------------------------------------------------------
+	Done creating the Finite State Machine!
+	----------------------------------------------------------------From now on we are testing the parser----------------------------------------------------------------
+
+	Current Time =16:55:38
+	Trace number 0 : 
+	Accepted Events Number = 514850
+	Total number of events = 555460
+	Number of traces = 1
+	The final answer is : 0.9268894249810967
+
+End Time =16:55:40
+
+
+
+
+
+
+
+
+Start Time =16:55:40
+	------------------------------------------------------------------Creating the Finite State Machine------------------------------------------------------------------
+	Done creating the Finite State Machine!
+	----------------------------------------------------------------From now on we are testing the parser----------------------------------------------------------------
+
+	Current Time =16:55:40
+	Trace number 0 : 
+	Accepted Events Number = 514850
+	Total number of events = 555460
+	Number of traces = 1
+	The final answer is : 0.9268894249810967
+
+End Time =16:55:42
+
+
+
+
+
+
+
+
+Start Time =16:55:42
+	------------------------------------------------------------------Creating the Finite State Machine------------------------------------------------------------------
+	Done creating the Finite State Machine!
+	----------------------------------------------------------------From now on we are testing the parser----------------------------------------------------------------
+
+	Current Time =16:55:42
+	Trace number 0 : 
+	Accepted Events Number = 514850
+	Total number of events = 555460
+	Number of traces = 1
+	The final answer is : 0.9268894249810967
+
+End Time =16:55:43
+
+
+
+
+
+
+
+
+Start Time =13:16:54
+	------------------------------------------------------------------Creating the Finite State Machine------------------------------------------------------------------
+	Done creating the Finite State Machine!
+	----------------------------------------------------------------From now on we are testing the parser----------------------------------------------------------------
+
+	Current Time =13:16:54
+	Trace number 0 : 
+	Accepted Events Number = 74427
+	Total number of events = 242633
+	Number of traces = 1
+	The final answer is : 0.30674722729389653
+
+End Time =13:16:55
+
+
+
+
+
+
+
+
+Start Time =13:16:55
+	------------------------------------------------------------------Creating the Finite State Machine------------------------------------------------------------------
+	Done creating the Finite State Machine!
+	----------------------------------------------------------------From now on we are testing the parser----------------------------------------------------------------
+
+	Current Time =13:16:55
+	Trace number 0 : 
+	Accepted Events Number = 74427
+	Total number of events = 242633
+	Number of traces = 1
+	The final answer is : 0.30674722729389653
+
+End Time =13:16:56
+
+
+
+
+
+
+
+
+Start Time =13:16:56
+	------------------------------------------------------------------Creating the Finite State Machine------------------------------------------------------------------
+	Done creating the Finite State Machine!
+	----------------------------------------------------------------From now on we are testing the parser----------------------------------------------------------------
+
+	Current Time =13:16:56
+	Trace number 0 : 
+	Accepted Events Number = 74427
+	Total number of events = 242633
+	Number of traces = 1
+	The final answer is : 0.30674722729389653
+
+End Time =13:16:57
+
+
+
+
+
+
+
+
+Start Time =13:16:57
+	------------------------------------------------------------------Creating the Finite State Machine------------------------------------------------------------------
+	Done creating the Finite State Machine!
+	----------------------------------------------------------------From now on we are testing the parser----------------------------------------------------------------
+
+	Current Time =13:16:57
+	Trace number 0 : 
+	Accepted Events Number = 74427
+	Total number of events = 242633
+	Number of traces = 1
+	The final answer is : 0.30674722729389653
+
+End Time =13:16:58
+
+
+
+
+
+
+
+
+Start Time =13:16:58
+	------------------------------------------------------------------Creating the Finite State Machine------------------------------------------------------------------
+	Done creating the Finite State Machine!
+	----------------------------------------------------------------From now on we are testing the parser----------------------------------------------------------------
+
+	Current Time =13:16:58
+	Trace number 0 : 
+	Accepted Events Number = 74427
+	Total number of events = 242633
+	Number of traces = 1
+	The final answer is : 0.30674722729389653
+
+End Time =13:16:59
+
+
+
+
+
+
+
+
+Start Time =13:16:59
+	------------------------------------------------------------------Creating the Finite State Machine------------------------------------------------------------------
+	Done creating the Finite State Machine!
+	----------------------------------------------------------------From now on we are testing the parser----------------------------------------------------------------
+
+	Current Time =13:16:59
+	Trace number 0 : 
+	Accepted Events Number = 74427
+	Total number of events = 242633
+	Number of traces = 1
+	The final answer is : 0.30674722729389653
+
+End Time =13:17:00
+
+
+
+
+
+
+
+
+Start Time =13:17:00
+	------------------------------------------------------------------Creating the Finite State Machine------------------------------------------------------------------
+	Done creating the Finite State Machine!
+	----------------------------------------------------------------From now on we are testing the parser----------------------------------------------------------------
+
+	Current Time =13:17:00
+	Trace number 0 : 
+	Accepted Events Number = 74427
+	Total number of events = 242633
+	Number of traces = 1
+	The final answer is : 0.30674722729389653
+
+End Time =13:17:01
+
+
+
+
+
+
+
+
+Start Time =13:17:01
+	------------------------------------------------------------------Creating the Finite State Machine------------------------------------------------------------------
+	Done creating the Finite State Machine!
+	----------------------------------------------------------------From now on we are testing the parser----------------------------------------------------------------
+
+	Current Time =13:17:01
+	Trace number 0 : 
+	Accepted Events Number = 74427
+	Total number of events = 242633
+	Number of traces = 1
+	The final answer is : 0.30674722729389653
+
+End Time =13:17:02
+
+
+
+
+
+
+
+
+Start Time =13:17:02
+	------------------------------------------------------------------Creating the Finite State Machine------------------------------------------------------------------
+	Done creating the Finite State Machine!
+	----------------------------------------------------------------From now on we are testing the parser----------------------------------------------------------------
+
+	Current Time =13:17:02
+	Trace number 0 : 
+	Accepted Events Number = 74427
+	Total number of events = 242633
+	Number of traces = 1
+	The final answer is : 0.30674722729389653
+
+End Time =13:17:03
+
+
+
+
+
+
+
+
+Start Time =13:17:03
+	------------------------------------------------------------------Creating the Finite State Machine------------------------------------------------------------------
+	Done creating the Finite State Machine!
+	----------------------------------------------------------------From now on we are testing the parser----------------------------------------------------------------
+
+	Current Time =13:17:03
+	Trace number 0 : 
+	Accepted Events Number = 74427
+	Total number of events = 242633
+	Number of traces = 1
+	The final answer is : 0.30674722729389653
+
+End Time =13:17:04
+
+
+
+
+
+
+
+
+Start Time =13:17:04
+	------------------------------------------------------------------Creating the Finite State Machine------------------------------------------------------------------
+	Done creating the Finite State Machine!
+	----------------------------------------------------------------From now on we are testing the parser----------------------------------------------------------------
+
+	Current Time =13:17:04
+	Trace number 0 : 
+	Accepted Events Number = 74427
+	Total number of events = 242633
+	Number of traces = 1
+	The final answer is : 0.30674722729389653
+
+End Time =13:17:05
+
+
+
+
+
+
+
+
+Start Time =13:17:05
+	------------------------------------------------------------------Creating the Finite State Machine------------------------------------------------------------------
+	Done creating the Finite State Machine!
+	----------------------------------------------------------------From now on we are testing the parser----------------------------------------------------------------
+
+	Current Time =13:17:05
+	Trace number 0 : 
+	Accepted Events Number = 74427
+	Total number of events = 242633
+	Number of traces = 1
+	The final answer is : 0.30674722729389653
+
+End Time =13:17:06
+
+
+
+
+
+
+
+
+Start Time =13:17:06
+	------------------------------------------------------------------Creating the Finite State Machine------------------------------------------------------------------
+	Done creating the Finite State Machine!
+	----------------------------------------------------------------From now on we are testing the parser----------------------------------------------------------------
+
+	Current Time =13:17:06
+	Trace number 0 : 
+	Accepted Events Number = 74427
+	Total number of events = 242633
+	Number of traces = 1
+	The final answer is : 0.30674722729389653
+
+End Time =13:17:07
+
+
+
+
+
+
+
+
+Start Time =13:17:07
+	------------------------------------------------------------------Creating the Finite State Machine------------------------------------------------------------------
+	Done creating the Finite State Machine!
+	----------------------------------------------------------------From now on we are testing the parser----------------------------------------------------------------
+
+	Current Time =13:17:07
+	Trace number 0 : 
+	Accepted Events Number = 74441
+	Total number of events = 242633
+	Number of traces = 1
+	The final answer is : 0.3068049276067147
+
+End Time =13:17:08
+
+
+
+
+
+
+
+
+Start Time =13:17:08
+	------------------------------------------------------------------Creating the Finite State Machine------------------------------------------------------------------
+	Done creating the Finite State Machine!
+	----------------------------------------------------------------From now on we are testing the parser----------------------------------------------------------------
+
+	Current Time =13:17:08
+	Trace number 0 : 
+	Accepted Events Number = 74441
+	Total number of events = 242633
+	Number of traces = 1
+	The final answer is : 0.3068049276067147
+
+End Time =13:17:09
+
+
+
+
+
+
+
+
+Start Time =13:17:09
+	------------------------------------------------------------------Creating the Finite State Machine------------------------------------------------------------------
+	Done creating the Finite State Machine!
+	----------------------------------------------------------------From now on we are testing the parser----------------------------------------------------------------
+
+	Current Time =13:17:09
+	Trace number 0 : 
+	Accepted Events Number = 74441
+	Total number of events = 242633
+	Number of traces = 1
+	The final answer is : 0.3068049276067147
+
+End Time =13:17:10
+
+
+
+
+
+
+
+
+Start Time =13:17:10
+	------------------------------------------------------------------Creating the Finite State Machine------------------------------------------------------------------
+	Done creating the Finite State Machine!
+	----------------------------------------------------------------From now on we are testing the parser----------------------------------------------------------------
+
+	Current Time =13:17:10
+	Trace number 0 : 
+	Accepted Events Number = 74879
+	Total number of events = 242633
+	Number of traces = 1
+	The final answer is : 0.30861012310773883
+
+End Time =13:17:11
+
+
+
+
+
+
+
+
+Start Time =13:17:11
+	------------------------------------------------------------------Creating the Finite State Machine------------------------------------------------------------------
+	Done creating the Finite State Machine!
+	----------------------------------------------------------------From now on we are testing the parser----------------------------------------------------------------
+
+	Current Time =13:17:11
+	Trace number 0 : 
+	Accepted Events Number = 74891
+	Total number of events = 242633
+	Number of traces = 1
+	The final answer is : 0.30865958051872583
+
+End Time =13:17:12
+
+
+
+
+
+
+
+
+Start Time =13:17:12
+	------------------------------------------------------------------Creating the Finite State Machine------------------------------------------------------------------
+	Done creating the Finite State Machine!
+	----------------------------------------------------------------From now on we are testing the parser----------------------------------------------------------------
+
+	Current Time =13:17:12
+	Trace number 0 : 
+	Accepted Events Number = 74901
+	Total number of events = 242633
+	Number of traces = 1
+	The final answer is : 0.3087007950278816
+
+End Time =13:17:13
+
+
+
+
+
+
+
+
+Start Time =13:17:13
+	------------------------------------------------------------------Creating the Finite State Machine------------------------------------------------------------------
+	Done creating the Finite State Machine!
+	----------------------------------------------------------------From now on we are testing the parser----------------------------------------------------------------
+
+	Current Time =13:17:13
+	Trace number 0 : 
+	Accepted Events Number = 74901
+	Total number of events = 242633
+	Number of traces = 1
+	The final answer is : 0.3087007950278816
+
+End Time =13:17:14
+
+
+
+
+
+
+
+
+Start Time =13:17:14
+	------------------------------------------------------------------Creating the Finite State Machine------------------------------------------------------------------
+	Done creating the Finite State Machine!
+	----------------------------------------------------------------From now on we are testing the parser----------------------------------------------------------------
+
+	Current Time =13:17:14
+	Trace number 0 : 
+	Accepted Events Number = 74901
+	Total number of events = 242633
+	Number of traces = 1
+	The final answer is : 0.3087007950278816
+
+End Time =13:17:15
+
+
+
+
+
+
+
+
+Start Time =13:17:15
+	------------------------------------------------------------------Creating the Finite State Machine------------------------------------------------------------------
+	Done creating the Finite State Machine!
+	----------------------------------------------------------------From now on we are testing the parser----------------------------------------------------------------
+
+	Current Time =13:17:15
+	Trace number 0 : 
+	Accepted Events Number = 74901
+	Total number of events = 242633
+	Number of traces = 1
+	The final answer is : 0.3087007950278816
+
+End Time =13:17:16
+
+
+
+
+
+
+
+
+Start Time =13:17:16
+	------------------------------------------------------------------Creating the Finite State Machine------------------------------------------------------------------
+	Done creating the Finite State Machine!
+	----------------------------------------------------------------From now on we are testing the parser----------------------------------------------------------------
+
+	Current Time =13:17:16
+	Trace number 0 : 
+	Accepted Events Number = 74901
+	Total number of events = 242633
+	Number of traces = 1
+	The final answer is : 0.3087007950278816
+
+End Time =13:17:17
+
+
+
+
+
+
+
+
+Start Time =13:17:17
+	------------------------------------------------------------------Creating the Finite State Machine------------------------------------------------------------------
+	Done creating the Finite State Machine!
+	----------------------------------------------------------------From now on we are testing the parser----------------------------------------------------------------
+
+	Current Time =13:17:17
+	Trace number 0 : 
+	Accepted Events Number = 74901
+	Total number of events = 242633
+	Number of traces = 1
+	The final answer is : 0.3087007950278816
+
+End Time =13:17:18
+
+
+
+
+
+
+
+
+Start Time =13:17:18
+	------------------------------------------------------------------Creating the Finite State Machine------------------------------------------------------------------
+	Done creating the Finite State Machine!
+	----------------------------------------------------------------From now on we are testing the parser----------------------------------------------------------------
+
+	Current Time =13:17:18
+	Trace number 0 : 
+	Accepted Events Number = 74901
+	Total number of events = 242633
+	Number of traces = 1
+	The final answer is : 0.3087007950278816
+
+End Time =13:17:19
+
+
+
+
+
+
+
+
+Start Time =13:17:19
+	------------------------------------------------------------------Creating the Finite State Machine------------------------------------------------------------------
+	Done creating the Finite State Machine!
+	----------------------------------------------------------------From now on we are testing the parser----------------------------------------------------------------
+
+	Current Time =13:17:19
+	Trace number 0 : 
+	Accepted Events Number = 74901
+	Total number of events = 242633
+	Number of traces = 1
+	The final answer is : 0.3087007950278816
+
+End Time =13:17:20
+
+
+
+
+
+
+
+
+Start Time =13:17:20
+	------------------------------------------------------------------Creating the Finite State Machine------------------------------------------------------------------
+	Done creating the Finite State Machine!
+	----------------------------------------------------------------From now on we are testing the parser----------------------------------------------------------------
+
+	Current Time =13:17:20
+	Trace number 0 : 
+	Accepted Events Number = 74901
+	Total number of events = 242633
+	Number of traces = 1
+	The final answer is : 0.3087007950278816
+
+End Time =13:17:21
+
+
+
+
+
+
+
+
+Start Time =13:33:42
+	------------------------------------------------------------------Creating the Finite State Machine------------------------------------------------------------------
+	Done creating the Finite State Machine!
+	----------------------------------------------------------------From now on we are testing the parser----------------------------------------------------------------
+
+	Current Time =13:33:42
+	Trace number 0 : 
+	Accepted Events Number = 74427
+	Total number of events = 242633
+	Number of traces = 1
+	The final answer is : 0.30674722729389653
+
+End Time =13:33:43
+
+
+
+
+
+
+
+
+Start Time =13:33:43
+	------------------------------------------------------------------Creating the Finite State Machine------------------------------------------------------------------
+	Done creating the Finite State Machine!
+	----------------------------------------------------------------From now on we are testing the parser----------------------------------------------------------------
+
+	Current Time =13:33:43
+	Trace number 0 : 
+	Accepted Events Number = 74427
+	Total number of events = 242633
+	Number of traces = 1
+	The final answer is : 0.30674722729389653
+
+End Time =13:33:44
+
+
+
+
+
+
+
+
+Start Time =13:33:44
+	------------------------------------------------------------------Creating the Finite State Machine------------------------------------------------------------------
+	Done creating the Finite State Machine!
+	----------------------------------------------------------------From now on we are testing the parser----------------------------------------------------------------
+
+	Current Time =13:33:44
+	Trace number 0 : 
+	Accepted Events Number = 74427
+	Total number of events = 242633
+	Number of traces = 1
+	The final answer is : 0.30674722729389653
+
+End Time =13:33:45
+
+
+
+
+
+
+
+
+Start Time =13:33:45
+	------------------------------------------------------------------Creating the Finite State Machine------------------------------------------------------------------
+	Done creating the Finite State Machine!
+	----------------------------------------------------------------From now on we are testing the parser----------------------------------------------------------------
+
+	Current Time =13:33:45
+	Trace number 0 : 
+	Accepted Events Number = 74427
+	Total number of events = 242633
+	Number of traces = 1
+	The final answer is : 0.30674722729389653
+
+End Time =13:33:46
+
+
+
+
+
+
+
+
+Start Time =13:33:46
+	------------------------------------------------------------------Creating the Finite State Machine------------------------------------------------------------------
+	Done creating the Finite State Machine!
+	----------------------------------------------------------------From now on we are testing the parser----------------------------------------------------------------
+
+	Current Time =13:33:46
+	Trace number 0 : 
+	Accepted Events Number = 74427
+	Total number of events = 242633
+	Number of traces = 1
+	The final answer is : 0.30674722729389653
+
+End Time =13:33:47
+
+
+
+
+
+
+
+
+Start Time =13:33:47
+	------------------------------------------------------------------Creating the Finite State Machine------------------------------------------------------------------
+	Done creating the Finite State Machine!
+	----------------------------------------------------------------From now on we are testing the parser----------------------------------------------------------------
+
+	Current Time =13:33:47
+	Trace number 0 : 
+	Accepted Events Number = 74427
+	Total number of events = 242633
+	Number of traces = 1
+	The final answer is : 0.30674722729389653
+
+End Time =13:33:48
+
+
+
+
+
+
+
+
+Start Time =13:33:48
+	------------------------------------------------------------------Creating the Finite State Machine------------------------------------------------------------------
+	Done creating the Finite State Machine!
+	----------------------------------------------------------------From now on we are testing the parser----------------------------------------------------------------
+
+	Current Time =13:33:48
+	Trace number 0 : 
+	Accepted Events Number = 74427
+	Total number of events = 242633
+	Number of traces = 1
+	The final answer is : 0.30674722729389653
+
+End Time =13:33:49
+
+
+
+
+
+
+
+
+Start Time =13:33:49
+	------------------------------------------------------------------Creating the Finite State Machine------------------------------------------------------------------
+	Done creating the Finite State Machine!
+	----------------------------------------------------------------From now on we are testing the parser----------------------------------------------------------------
+
+	Current Time =13:33:49
+	Trace number 0 : 
+	Accepted Events Number = 74427
+	Total number of events = 242633
+	Number of traces = 1
+	The final answer is : 0.30674722729389653
+
+End Time =13:33:50
+
+
+
+
+
+
+
+
+Start Time =13:33:50
+	------------------------------------------------------------------Creating the Finite State Machine------------------------------------------------------------------
+	Done creating the Finite State Machine!
+	----------------------------------------------------------------From now on we are testing the parser----------------------------------------------------------------
+
+	Current Time =13:33:50
+	Trace number 0 : 
+	Accepted Events Number = 74427
+	Total number of events = 242633
+	Number of traces = 1
+	The final answer is : 0.30674722729389653
+
+End Time =13:33:51
+
+
+
+
+
+
+
+
+Start Time =13:33:51
+	------------------------------------------------------------------Creating the Finite State Machine------------------------------------------------------------------
+	Done creating the Finite State Machine!
+	----------------------------------------------------------------From now on we are testing the parser----------------------------------------------------------------
+
+	Current Time =13:33:51
+	Trace number 0 : 
+	Accepted Events Number = 74427
+	Total number of events = 242633
+	Number of traces = 1
+	The final answer is : 0.30674722729389653
+
+End Time =13:33:52
+
+
+
+
+
+
+
+
+Start Time =13:33:52
+	------------------------------------------------------------------Creating the Finite State Machine------------------------------------------------------------------
+	Done creating the Finite State Machine!
+	----------------------------------------------------------------From now on we are testing the parser----------------------------------------------------------------
+
+	Current Time =13:33:52
+	Trace number 0 : 
+	Accepted Events Number = 74427
+	Total number of events = 242633
+	Number of traces = 1
+	The final answer is : 0.30674722729389653
+
+End Time =13:33:53
+
+
+
+
+
+
+
+
+Start Time =13:33:53
+	------------------------------------------------------------------Creating the Finite State Machine------------------------------------------------------------------
+	Done creating the Finite State Machine!
+	----------------------------------------------------------------From now on we are testing the parser----------------------------------------------------------------
+
+	Current Time =13:33:53
+	Trace number 0 : 
+	Accepted Events Number = 74427
+	Total number of events = 242633
+	Number of traces = 1
+	The final answer is : 0.30674722729389653
+
+End Time =13:33:54
+
+
+
+
+
+
+
+
+Start Time =13:33:54
+	------------------------------------------------------------------Creating the Finite State Machine------------------------------------------------------------------
+	Done creating the Finite State Machine!
+	----------------------------------------------------------------From now on we are testing the parser----------------------------------------------------------------
+
+	Current Time =13:33:54
+	Trace number 0 : 
+	Accepted Events Number = 74427
+	Total number of events = 242633
+	Number of traces = 1
+	The final answer is : 0.30674722729389653
+
+End Time =13:33:55
+
+
+
+
+
+
+
+
+Start Time =13:33:55
+	------------------------------------------------------------------Creating the Finite State Machine------------------------------------------------------------------
+	Done creating the Finite State Machine!
+	----------------------------------------------------------------From now on we are testing the parser----------------------------------------------------------------
+
+	Current Time =13:33:55
+	Trace number 0 : 
+	Accepted Events Number = 74441
+	Total number of events = 242633
+	Number of traces = 1
+	The final answer is : 0.3068049276067147
+
+End Time =13:33:56
+
+
+
+
+
+
+
+
+Start Time =13:33:56
+	------------------------------------------------------------------Creating the Finite State Machine------------------------------------------------------------------
+	Done creating the Finite State Machine!
+	----------------------------------------------------------------From now on we are testing the parser----------------------------------------------------------------
+
+	Current Time =13:33:56
+	Trace number 0 : 
+	Accepted Events Number = 74441
+	Total number of events = 242633
+	Number of traces = 1
+	The final answer is : 0.3068049276067147
+
+End Time =13:33:57
+
+
+
+
+
+
+
+
+Start Time =13:33:57
+	------------------------------------------------------------------Creating the Finite State Machine------------------------------------------------------------------
+	Done creating the Finite State Machine!
+	----------------------------------------------------------------From now on we are testing the parser----------------------------------------------------------------
+
+	Current Time =13:33:57
+	Trace number 0 : 
+	Accepted Events Number = 74441
+	Total number of events = 242633
+	Number of traces = 1
+	The final answer is : 0.3068049276067147
+
+End Time =13:33:58
+
+
+
+
+
+
+
+
+Start Time =13:33:58
+	------------------------------------------------------------------Creating the Finite State Machine------------------------------------------------------------------
+	Done creating the Finite State Machine!
+	----------------------------------------------------------------From now on we are testing the parser----------------------------------------------------------------
+
+	Current Time =13:33:58
+	Trace number 0 : 
+	Accepted Events Number = 74879
+	Total number of events = 242633
+	Number of traces = 1
+	The final answer is : 0.30861012310773883
+
+End Time =13:33:59
+
+
+
+
+
+
+
+
+Start Time =13:33:59
+	------------------------------------------------------------------Creating the Finite State Machine------------------------------------------------------------------
+	Done creating the Finite State Machine!
+	----------------------------------------------------------------From now on we are testing the parser----------------------------------------------------------------
+
+	Current Time =13:33:59
+	Trace number 0 : 
+	Accepted Events Number = 74891
+	Total number of events = 242633
+	Number of traces = 1
+	The final answer is : 0.30865958051872583
+
+End Time =13:34:00
+
+
+
+
+
+
+
+
+Start Time =13:34:00
+	------------------------------------------------------------------Creating the Finite State Machine------------------------------------------------------------------
+	Done creating the Finite State Machine!
+	----------------------------------------------------------------From now on we are testing the parser----------------------------------------------------------------
+
+	Current Time =13:34:00
+	Trace number 0 : 
+	Accepted Events Number = 74901
+	Total number of events = 242633
+	Number of traces = 1
+	The final answer is : 0.3087007950278816
+
+End Time =13:34:01
+
+
+
+
+
+
+
+
+Start Time =13:34:01
+	------------------------------------------------------------------Creating the Finite State Machine------------------------------------------------------------------
+	Done creating the Finite State Machine!
+	----------------------------------------------------------------From now on we are testing the parser----------------------------------------------------------------
+
+	Current Time =13:34:01
+	Trace number 0 : 
+	Accepted Events Number = 74901
+	Total number of events = 242633
+	Number of traces = 1
+	The final answer is : 0.3087007950278816
+
+End Time =13:34:02
+
+
+
+
+
+
+
+
+Start Time =13:34:02
+	------------------------------------------------------------------Creating the Finite State Machine------------------------------------------------------------------
+	Done creating the Finite State Machine!
+	----------------------------------------------------------------From now on we are testing the parser----------------------------------------------------------------
+
+	Current Time =13:34:02
+	Trace number 0 : 
+	Accepted Events Number = 74901
+	Total number of events = 242633
+	Number of traces = 1
+	The final answer is : 0.3087007950278816
+
+End Time =13:34:03
+
+
+
+
+
+
+
+
+Start Time =13:34:03
+	------------------------------------------------------------------Creating the Finite State Machine------------------------------------------------------------------
+	Done creating the Finite State Machine!
+	----------------------------------------------------------------From now on we are testing the parser----------------------------------------------------------------
+
+	Current Time =13:34:03
+	Trace number 0 : 
+	Accepted Events Number = 74901
+	Total number of events = 242633
+	Number of traces = 1
+	The final answer is : 0.3087007950278816
+
+End Time =13:34:04
+
+
+
+
+
+
+
+
+Start Time =13:34:04
+	------------------------------------------------------------------Creating the Finite State Machine------------------------------------------------------------------
+	Done creating the Finite State Machine!
+	----------------------------------------------------------------From now on we are testing the parser----------------------------------------------------------------
+
+	Current Time =13:34:04
+	Trace number 0 : 
+	Accepted Events Number = 74901
+	Total number of events = 242633
+	Number of traces = 1
+	The final answer is : 0.3087007950278816
+
+End Time =13:34:05
+
+
+
+
+
+
+
+
+Start Time =13:34:05
+	------------------------------------------------------------------Creating the Finite State Machine------------------------------------------------------------------
+	Done creating the Finite State Machine!
+	----------------------------------------------------------------From now on we are testing the parser----------------------------------------------------------------
+
+	Current Time =13:34:05
+	Trace number 0 : 
+	Accepted Events Number = 74901
+	Total number of events = 242633
+	Number of traces = 1
+	The final answer is : 0.3087007950278816
+
+End Time =13:34:06
+
+
+
+
+
+
+
+
+Start Time =13:34:06
+	------------------------------------------------------------------Creating the Finite State Machine------------------------------------------------------------------
+	Done creating the Finite State Machine!
+	----------------------------------------------------------------From now on we are testing the parser----------------------------------------------------------------
+
+	Current Time =13:34:06
+	Trace number 0 : 
+	Accepted Events Number = 74901
+	Total number of events = 242633
+	Number of traces = 1
+	The final answer is : 0.3087007950278816
+
+End Time =13:34:07
+
+
+
+
+
+
+
+
+Start Time =13:34:07
+	------------------------------------------------------------------Creating the Finite State Machine------------------------------------------------------------------
+	Done creating the Finite State Machine!
+	----------------------------------------------------------------From now on we are testing the parser----------------------------------------------------------------
+
+	Current Time =13:34:07
+	Trace number 0 : 
+	Accepted Events Number = 74901
+	Total number of events = 242633
+	Number of traces = 1
+	The final answer is : 0.3087007950278816
+
+End Time =13:34:08
+
+
+
+
+
+
+
+
+Start Time =13:34:08
+	------------------------------------------------------------------Creating the Finite State Machine------------------------------------------------------------------
+	Done creating the Finite State Machine!
+	----------------------------------------------------------------From now on we are testing the parser----------------------------------------------------------------
+
+	Current Time =13:34:08
+	Trace number 0 : 
+	Accepted Events Number = 74901
+	Total number of events = 242633
+	Number of traces = 1
+	The final answer is : 0.3087007950278816
+
+End Time =13:34:09
+
+
+
+
+
+
+
+
+Start Time =13:39:40
+	------------------------------------------------------------------Creating the Finite State Machine------------------------------------------------------------------
+	Done creating the Finite State Machine!
+	----------------------------------------------------------------From now on we are testing the parser----------------------------------------------------------------
+
+	Current Time =13:39:40
+	Trace number 0 : 
+	Accepted Events Number = 514706
+	Total number of events = 555460
+	Number of traces = 1
+	The final answer is : 0.9266301803910273
+
+End Time =13:39:42
+
+
+
+
+
+
+
+
+Start Time =13:39:42
+	------------------------------------------------------------------Creating the Finite State Machine------------------------------------------------------------------
+	Done creating the Finite State Machine!
+	----------------------------------------------------------------From now on we are testing the parser----------------------------------------------------------------
+
+	Current Time =13:39:42
+	Trace number 0 : 
+	Accepted Events Number = 514706
+	Total number of events = 555460
+	Number of traces = 1
+	The final answer is : 0.9266301803910273
+
+End Time =13:39:43
+
+
+
+
+
+
+
+
+Start Time =13:39:43
+	------------------------------------------------------------------Creating the Finite State Machine------------------------------------------------------------------
+	Done creating the Finite State Machine!
+	----------------------------------------------------------------From now on we are testing the parser----------------------------------------------------------------
+
+	Current Time =13:39:43
+	Trace number 0 : 
+	Accepted Events Number = 514706
+	Total number of events = 555460
+	Number of traces = 1
+	The final answer is : 0.9266301803910273
+
+End Time =13:39:45
+
+
+
+
+
+
+
+
+Start Time =13:39:45
+	------------------------------------------------------------------Creating the Finite State Machine------------------------------------------------------------------
+	Done creating the Finite State Machine!
+	----------------------------------------------------------------From now on we are testing the parser----------------------------------------------------------------
+
+	Current Time =13:39:45
+	Trace number 0 : 
+	Accepted Events Number = 514706
+	Total number of events = 555460
+	Number of traces = 1
+	The final answer is : 0.9266301803910273
+
+End Time =13:39:46
+
+
+
+
+
+
+
+
+Start Time =13:39:46
+	------------------------------------------------------------------Creating the Finite State Machine------------------------------------------------------------------
+	Done creating the Finite State Machine!
+	----------------------------------------------------------------From now on we are testing the parser----------------------------------------------------------------
+
+	Current Time =13:39:46
+	Trace number 0 : 
+	Accepted Events Number = 514706
+	Total number of events = 555460
+	Number of traces = 1
+	The final answer is : 0.9266301803910273
+
+End Time =13:39:47
+
+
+
+
+
+
+
+
+Start Time =13:39:47
+	------------------------------------------------------------------Creating the Finite State Machine------------------------------------------------------------------
+	Done creating the Finite State Machine!
+	----------------------------------------------------------------From now on we are testing the parser----------------------------------------------------------------
+
+	Current Time =13:39:47
+	Trace number 0 : 
+	Accepted Events Number = 514706
+	Total number of events = 555460
+	Number of traces = 1
+	The final answer is : 0.9266301803910273
+
+End Time =13:39:49
+
+
+
+
+
+
+
+
+Start Time =13:39:49
+	------------------------------------------------------------------Creating the Finite State Machine------------------------------------------------------------------
+	Done creating the Finite State Machine!
+	----------------------------------------------------------------From now on we are testing the parser----------------------------------------------------------------
+
+	Current Time =13:39:49
+	Trace number 0 : 
+	Accepted Events Number = 514706
+	Total number of events = 555460
+	Number of traces = 1
+	The final answer is : 0.9266301803910273
+
+End Time =13:39:50
+
+
+
+
+
+
+
+
+Start Time =13:39:50
+	------------------------------------------------------------------Creating the Finite State Machine------------------------------------------------------------------
+	Done creating the Finite State Machine!
+	----------------------------------------------------------------From now on we are testing the parser----------------------------------------------------------------
+
+	Current Time =13:39:50
+	Trace number 0 : 
+	Accepted Events Number = 514706
+	Total number of events = 555460
+	Number of traces = 1
+	The final answer is : 0.9266301803910273
+
+End Time =13:39:51
+
+
+
+
+
+
+
+
+Start Time =13:39:51
+	------------------------------------------------------------------Creating the Finite State Machine------------------------------------------------------------------
+	Done creating the Finite State Machine!
+	----------------------------------------------------------------From now on we are testing the parser----------------------------------------------------------------
+
+	Current Time =13:39:51
+	Trace number 0 : 
+	Accepted Events Number = 514706
+	Total number of events = 555460
+	Number of traces = 1
+	The final answer is : 0.9266301803910273
+
+End Time =13:39:53
+
+
+
+
+
+
+
+
+Start Time =13:39:53
+	------------------------------------------------------------------Creating the Finite State Machine------------------------------------------------------------------
+	Done creating the Finite State Machine!
+	----------------------------------------------------------------From now on we are testing the parser----------------------------------------------------------------
+
+	Current Time =13:39:53
+	Trace number 0 : 
+	Accepted Events Number = 514706
+	Total number of events = 555460
+	Number of traces = 1
+	The final answer is : 0.9266301803910273
+
+End Time =13:39:54
+
+
+
+
+
+
+
+
+Start Time =13:39:54
+	------------------------------------------------------------------Creating the Finite State Machine------------------------------------------------------------------
+	Done creating the Finite State Machine!
+	----------------------------------------------------------------From now on we are testing the parser----------------------------------------------------------------
+
+	Current Time =13:39:54
+	Trace number 0 : 
+	Accepted Events Number = 514706
+	Total number of events = 555460
+	Number of traces = 1
+	The final answer is : 0.9266301803910273
+
+End Time =13:39:55
+
+
+
+
+
+
+
+
+Start Time =13:39:55
+	------------------------------------------------------------------Creating the Finite State Machine------------------------------------------------------------------
+	Done creating the Finite State Machine!
+	----------------------------------------------------------------From now on we are testing the parser----------------------------------------------------------------
+
+	Current Time =13:39:55
+	Trace number 0 : 
+	Accepted Events Number = 514714
+	Total number of events = 555460
+	Number of traces = 1
+	The final answer is : 0.9266445828682534
+
+End Time =13:39:57
+
+
+
+
+
+
+
+
+Start Time =13:39:57
+	------------------------------------------------------------------Creating the Finite State Machine------------------------------------------------------------------
+	Done creating the Finite State Machine!
+	----------------------------------------------------------------From now on we are testing the parser----------------------------------------------------------------
+
+	Current Time =13:39:57
+	Trace number 0 : 
+	Accepted Events Number = 514742
+	Total number of events = 555460
+	Number of traces = 1
+	The final answer is : 0.9266949915385446
+
+End Time =13:39:58
+
+
+
+
+
+
+
+
+Start Time =13:39:58
+	------------------------------------------------------------------Creating the Finite State Machine------------------------------------------------------------------
+	Done creating the Finite State Machine!
+	----------------------------------------------------------------From now on we are testing the parser----------------------------------------------------------------
+
+	Current Time =13:39:58
+	Trace number 0 : 
+	Accepted Events Number = 514742
+	Total number of events = 555460
+	Number of traces = 1
+	The final answer is : 0.9266949915385446
+
+End Time =13:39:59
+
+
+
+
+
+
+
+
+Start Time =13:39:59
+	------------------------------------------------------------------Creating the Finite State Machine------------------------------------------------------------------
+	Done creating the Finite State Machine!
+	----------------------------------------------------------------From now on we are testing the parser----------------------------------------------------------------
+
+	Current Time =13:40:00
+	Trace number 0 : 
+	Accepted Events Number = 514742
+	Total number of events = 555460
+	Number of traces = 1
+	The final answer is : 0.9266949915385446
+
+End Time =13:40:01
+
+
+
+
+
+
+
+
+Start Time =13:40:01
+	------------------------------------------------------------------Creating the Finite State Machine------------------------------------------------------------------
+	Done creating the Finite State Machine!
+	----------------------------------------------------------------From now on we are testing the parser----------------------------------------------------------------
+
+	Current Time =13:40:01
+	Trace number 0 : 
+	Accepted Events Number = 514742
+	Total number of events = 555460
+	Number of traces = 1
+	The final answer is : 0.9266949915385446
+
+End Time =13:40:03
+
+
+
+
+
+
+
+
+Start Time =13:40:03
+	------------------------------------------------------------------Creating the Finite State Machine------------------------------------------------------------------
+	Done creating the Finite State Machine!
+	----------------------------------------------------------------From now on we are testing the parser----------------------------------------------------------------
+
+	Current Time =13:40:03
+	Trace number 0 : 
+	Accepted Events Number = 514800
+	Total number of events = 555460
+	Number of traces = 1
+	The final answer is : 0.9267994094984338
+
+End Time =13:40:04
+
+
+
+
+
+
+
+
+Start Time =13:40:04
+	------------------------------------------------------------------Creating the Finite State Machine------------------------------------------------------------------
+	Done creating the Finite State Machine!
+	----------------------------------------------------------------From now on we are testing the parser----------------------------------------------------------------
+
+	Current Time =13:40:04
+	Trace number 0 : 
+	Accepted Events Number = 514806
+	Total number of events = 555460
+	Number of traces = 1
+	The final answer is : 0.9268102113563533
+
+End Time =13:40:05
+
+
+
+
+
+
+
+
+Start Time =13:40:05
+	------------------------------------------------------------------Creating the Finite State Machine------------------------------------------------------------------
+	Done creating the Finite State Machine!
+	----------------------------------------------------------------From now on we are testing the parser----------------------------------------------------------------
+
+	Current Time =13:40:05
+	Trace number 0 : 
+	Accepted Events Number = 514806
+	Total number of events = 555460
+	Number of traces = 1
+	The final answer is : 0.9268102113563533
+
+End Time =13:40:07
+
+
+
+
+
+
+
+
+Start Time =13:40:07
+	------------------------------------------------------------------Creating the Finite State Machine------------------------------------------------------------------
+	Done creating the Finite State Machine!
+	----------------------------------------------------------------From now on we are testing the parser----------------------------------------------------------------
+
+	Current Time =13:40:07
+	Trace number 0 : 
+	Accepted Events Number = 514806
+	Total number of events = 555460
+	Number of traces = 1
+	The final answer is : 0.9268102113563533
+
+End Time =13:40:08
+
+
+
+
+
+
+
+
+Start Time =13:40:08
+	------------------------------------------------------------------Creating the Finite State Machine------------------------------------------------------------------
+	Done creating the Finite State Machine!
+	----------------------------------------------------------------From now on we are testing the parser----------------------------------------------------------------
+
+	Current Time =13:40:08
+	Trace number 0 : 
+	Accepted Events Number = 514806
+	Total number of events = 555460
+	Number of traces = 1
+	The final answer is : 0.9268102113563533
+
+End Time =13:40:09
+
+
+
+
+
+
+
+
+Start Time =13:40:09
+	------------------------------------------------------------------Creating the Finite State Machine------------------------------------------------------------------
+	Done creating the Finite State Machine!
+	----------------------------------------------------------------From now on we are testing the parser----------------------------------------------------------------
+
+	Current Time =13:40:09
+	Trace number 0 : 
+	Accepted Events Number = 514834
+	Total number of events = 555460
+	Number of traces = 1
+	The final answer is : 0.9268606200266446
+
+End Time =13:40:11
+
+
+
+
+
+
+
+
+Start Time =13:40:11
+	------------------------------------------------------------------Creating the Finite State Machine------------------------------------------------------------------
+	Done creating the Finite State Machine!
+	----------------------------------------------------------------From now on we are testing the parser----------------------------------------------------------------
+
+	Current Time =13:40:11
+	Trace number 0 : 
+	Accepted Events Number = 514850
+	Total number of events = 555460
+	Number of traces = 1
+	The final answer is : 0.9268894249810967
+
+End Time =13:40:12
+
+
+
+
+
+
+
+
+Start Time =13:40:12
+	------------------------------------------------------------------Creating the Finite State Machine------------------------------------------------------------------
+	Done creating the Finite State Machine!
+	----------------------------------------------------------------From now on we are testing the parser----------------------------------------------------------------
+
+	Current Time =13:40:12
+	Trace number 0 : 
+	Accepted Events Number = 514850
+	Total number of events = 555460
+	Number of traces = 1
+	The final answer is : 0.9268894249810967
+
+End Time =13:40:14
+
+
+
+
+
+
+
+
+Start Time =13:40:14
+	------------------------------------------------------------------Creating the Finite State Machine------------------------------------------------------------------
+	Done creating the Finite State Machine!
+	----------------------------------------------------------------From now on we are testing the parser----------------------------------------------------------------
+
+	Current Time =13:40:14
+	Trace number 0 : 
+	Accepted Events Number = 514850
+	Total number of events = 555460
+	Number of traces = 1
+	The final answer is : 0.9268894249810967
+
+End Time =13:40:15
+
+
+
+
+
+
+
+
+Start Time =13:40:15
+	------------------------------------------------------------------Creating the Finite State Machine------------------------------------------------------------------
+	Done creating the Finite State Machine!
+	----------------------------------------------------------------From now on we are testing the parser----------------------------------------------------------------
+
+	Current Time =13:40:15
+	Trace number 0 : 
+	Accepted Events Number = 514850
+	Total number of events = 555460
+	Number of traces = 1
+	The final answer is : 0.9268894249810967
+
+End Time =13:40:16
+
+
+
+
+
+
+
+
+Start Time =13:41:24
+	------------------------------------------------------------------Creating the Finite State Machine------------------------------------------------------------------
+	Done creating the Finite State Machine!
+	----------------------------------------------------------------From now on we are testing the parser----------------------------------------------------------------
+
+	Current Time =13:41:24
+	Trace number 0 : 
+	Accepted Events Number = 514706
+	Total number of events = 555460
+	Number of traces = 1
+	The final answer is : 0.9266301803910273
+
+End Time =13:41:26
+
+
+
+
+
+
+
+
+Start Time =13:41:26
+	------------------------------------------------------------------Creating the Finite State Machine------------------------------------------------------------------
+	Done creating the Finite State Machine!
+	----------------------------------------------------------------From now on we are testing the parser----------------------------------------------------------------
+
+	Current Time =13:41:26
+	Trace number 0 : 
+	Accepted Events Number = 514706
+	Total number of events = 555460
+	Number of traces = 1
+	The final answer is : 0.9266301803910273
+
+End Time =13:41:27
+
+
+
+
+
+
+
+
+Start Time =13:41:27
+	------------------------------------------------------------------Creating the Finite State Machine------------------------------------------------------------------
+	Done creating the Finite State Machine!
+	----------------------------------------------------------------From now on we are testing the parser----------------------------------------------------------------
+
+	Current Time =13:41:27
+	Trace number 0 : 
+	Accepted Events Number = 514706
+	Total number of events = 555460
+	Number of traces = 1
+	The final answer is : 0.9266301803910273
+
+End Time =13:41:29
+
+
+
+
+
+
+
+
+Start Time =13:41:29
+	------------------------------------------------------------------Creating the Finite State Machine------------------------------------------------------------------
+	Done creating the Finite State Machine!
+	----------------------------------------------------------------From now on we are testing the parser----------------------------------------------------------------
+
+	Current Time =13:41:29
+	Trace number 0 : 
+	Accepted Events Number = 514706
+	Total number of events = 555460
+	Number of traces = 1
+	The final answer is : 0.9266301803910273
+
+End Time =13:41:30
+
+
+
+
+
+
+
+
+Start Time =13:41:30
+	------------------------------------------------------------------Creating the Finite State Machine------------------------------------------------------------------
+	Done creating the Finite State Machine!
+	----------------------------------------------------------------From now on we are testing the parser----------------------------------------------------------------
+
+	Current Time =13:41:30
+	Trace number 0 : 
+	Accepted Events Number = 514706
+	Total number of events = 555460
+	Number of traces = 1
+	The final answer is : 0.9266301803910273
+
+End Time =13:41:31
+
+
+
+
+
+
+
+
+Start Time =13:41:31
+	------------------------------------------------------------------Creating the Finite State Machine------------------------------------------------------------------
+	Done creating the Finite State Machine!
+	----------------------------------------------------------------From now on we are testing the parser----------------------------------------------------------------
+
+	Current Time =13:41:31
+	Trace number 0 : 
+	Accepted Events Number = 514706
+	Total number of events = 555460
+	Number of traces = 1
+	The final answer is : 0.9266301803910273
+
+End Time =13:41:33
+
+
+
+
+
+
+
+
+Start Time =13:41:33
+	------------------------------------------------------------------Creating the Finite State Machine------------------------------------------------------------------
+	Done creating the Finite State Machine!
+	----------------------------------------------------------------From now on we are testing the parser----------------------------------------------------------------
+
+	Current Time =13:41:33
+	Trace number 0 : 
+	Accepted Events Number = 514706
+	Total number of events = 555460
+	Number of traces = 1
+	The final answer is : 0.9266301803910273
+
+End Time =13:41:34
+
+
+
+
+
+
+
+
+Start Time =13:41:34
+	------------------------------------------------------------------Creating the Finite State Machine------------------------------------------------------------------
+	Done creating the Finite State Machine!
+	----------------------------------------------------------------From now on we are testing the parser----------------------------------------------------------------
+
+	Current Time =13:41:34
+	Trace number 0 : 
+	Accepted Events Number = 514706
+	Total number of events = 555460
+	Number of traces = 1
+	The final answer is : 0.9266301803910273
+
+End Time =13:41:35
+
+
+
+
+
+
+
+
+Start Time =13:41:35
+	------------------------------------------------------------------Creating the Finite State Machine------------------------------------------------------------------
+	Done creating the Finite State Machine!
+	----------------------------------------------------------------From now on we are testing the parser----------------------------------------------------------------
+
+	Current Time =13:41:35
+	Trace number 0 : 
+	Accepted Events Number = 514706
+	Total number of events = 555460
+	Number of traces = 1
+	The final answer is : 0.9266301803910273
+
+End Time =13:41:37
+
+
+
+
+
+
+
+
+Start Time =13:41:37
+	------------------------------------------------------------------Creating the Finite State Machine------------------------------------------------------------------
+	Done creating the Finite State Machine!
+	----------------------------------------------------------------From now on we are testing the parser----------------------------------------------------------------
+
+	Current Time =13:41:37
+	Trace number 0 : 
+	Accepted Events Number = 514706
+	Total number of events = 555460
+	Number of traces = 1
+	The final answer is : 0.9266301803910273
+
+End Time =13:41:38
+
+
+
+
+
+
+
+
+Start Time =13:41:38
+	------------------------------------------------------------------Creating the Finite State Machine------------------------------------------------------------------
+	Done creating the Finite State Machine!
+	----------------------------------------------------------------From now on we are testing the parser----------------------------------------------------------------
+
+	Current Time =13:41:38
+	Trace number 0 : 
+	Accepted Events Number = 514706
+	Total number of events = 555460
+	Number of traces = 1
+	The final answer is : 0.9266301803910273
+
+End Time =13:41:39
+
+
+
+
+
+
+
+
+Start Time =13:41:39
+	------------------------------------------------------------------Creating the Finite State Machine------------------------------------------------------------------
+	Done creating the Finite State Machine!
+	----------------------------------------------------------------From now on we are testing the parser----------------------------------------------------------------
+
+	Current Time =13:41:40
+	Trace number 0 : 
+	Accepted Events Number = 514714
+	Total number of events = 555460
+	Number of traces = 1
+	The final answer is : 0.9266445828682534
+
+End Time =13:41:41
+
+
+
+
+
+
+
+
+Start Time =13:41:41
+	------------------------------------------------------------------Creating the Finite State Machine------------------------------------------------------------------
+	Done creating the Finite State Machine!
+	----------------------------------------------------------------From now on we are testing the parser----------------------------------------------------------------
+
+	Current Time =13:41:41
+	Trace number 0 : 
+	Accepted Events Number = 514742
+	Total number of events = 555460
+	Number of traces = 1
+	The final answer is : 0.9266949915385446
+
+End Time =13:41:43
+
+
+
+
+
+
+
+
+Start Time =13:41:43
+	------------------------------------------------------------------Creating the Finite State Machine------------------------------------------------------------------
+	Done creating the Finite State Machine!
+	----------------------------------------------------------------From now on we are testing the parser----------------------------------------------------------------
+
+	Current Time =13:41:43
+	Trace number 0 : 
+	Accepted Events Number = 514742
+	Total number of events = 555460
+	Number of traces = 1
+	The final answer is : 0.9266949915385446
+
+End Time =13:41:44
+
+
+
+
+
+
+
+
+Start Time =13:41:44
+	------------------------------------------------------------------Creating the Finite State Machine------------------------------------------------------------------
+	Done creating the Finite State Machine!
+	----------------------------------------------------------------From now on we are testing the parser----------------------------------------------------------------
+
+	Current Time =13:41:44
+	Trace number 0 : 
+	Accepted Events Number = 514742
+	Total number of events = 555460
+	Number of traces = 1
+	The final answer is : 0.9266949915385446
+
+End Time =13:41:45
+
+
+
+
+
+
+
+
+Start Time =13:41:45
+	------------------------------------------------------------------Creating the Finite State Machine------------------------------------------------------------------
+	Done creating the Finite State Machine!
+	----------------------------------------------------------------From now on we are testing the parser----------------------------------------------------------------
+
+	Current Time =13:41:45
+	Trace number 0 : 
+	Accepted Events Number = 514742
+	Total number of events = 555460
+	Number of traces = 1
+	The final answer is : 0.9266949915385446
+
+End Time =13:41:47
+
+
+
+
+
+
+
+
+Start Time =13:41:47
+	------------------------------------------------------------------Creating the Finite State Machine------------------------------------------------------------------
+	Done creating the Finite State Machine!
+	----------------------------------------------------------------From now on we are testing the parser----------------------------------------------------------------
+
+	Current Time =13:41:47
+	Trace number 0 : 
+	Accepted Events Number = 514800
+	Total number of events = 555460
+	Number of traces = 1
+	The final answer is : 0.9267994094984338
+
+End Time =13:41:48
+
+
+
+
+
+
+
+
+Start Time =13:41:48
+	------------------------------------------------------------------Creating the Finite State Machine------------------------------------------------------------------
+	Done creating the Finite State Machine!
+	----------------------------------------------------------------From now on we are testing the parser----------------------------------------------------------------
+
+	Current Time =13:41:48
+	Trace number 0 : 
+	Accepted Events Number = 514806
+	Total number of events = 555460
+	Number of traces = 1
+	The final answer is : 0.9268102113563533
+
+End Time =13:41:49
+
+
+
+
+
+
+
+
+Start Time =13:41:49
+	------------------------------------------------------------------Creating the Finite State Machine------------------------------------------------------------------
+	Done creating the Finite State Machine!
+	----------------------------------------------------------------From now on we are testing the parser----------------------------------------------------------------
+
+	Current Time =13:41:49
+	Trace number 0 : 
+	Accepted Events Number = 514806
+	Total number of events = 555460
+	Number of traces = 1
+	The final answer is : 0.9268102113563533
+
+End Time =13:41:51
+
+
+
+
+
+
+
+
+Start Time =13:41:51
+	------------------------------------------------------------------Creating the Finite State Machine------------------------------------------------------------------
+	Done creating the Finite State Machine!
+	----------------------------------------------------------------From now on we are testing the parser----------------------------------------------------------------
+
+	Current Time =13:41:51
+	Trace number 0 : 
+	Accepted Events Number = 514806
+	Total number of events = 555460
+	Number of traces = 1
+	The final answer is : 0.9268102113563533
+
+End Time =13:41:52
+
+
+
+
+
+
+
+
+Start Time =13:41:52
+	------------------------------------------------------------------Creating the Finite State Machine------------------------------------------------------------------
+	Done creating the Finite State Machine!
+	----------------------------------------------------------------From now on we are testing the parser----------------------------------------------------------------
+
+	Current Time =13:41:52
+	Trace number 0 : 
+	Accepted Events Number = 514806
+	Total number of events = 555460
+	Number of traces = 1
+	The final answer is : 0.9268102113563533
+
+End Time =13:41:53
+
+
+
+
+
+
+
+
+Start Time =13:41:53
+	------------------------------------------------------------------Creating the Finite State Machine------------------------------------------------------------------
+	Done creating the Finite State Machine!
+	----------------------------------------------------------------From now on we are testing the parser----------------------------------------------------------------
+
+	Current Time =13:41:54
+	Trace number 0 : 
+	Accepted Events Number = 514834
+	Total number of events = 555460
+	Number of traces = 1
+	The final answer is : 0.9268606200266446
+
+End Time =13:41:55
+
+
+
+
+
+
+
+
+Start Time =13:41:55
+	------------------------------------------------------------------Creating the Finite State Machine------------------------------------------------------------------
+	Done creating the Finite State Machine!
+	----------------------------------------------------------------From now on we are testing the parser----------------------------------------------------------------
+
+	Current Time =13:41:55
+	Trace number 0 : 
+	Accepted Events Number = 514850
+	Total number of events = 555460
+	Number of traces = 1
+	The final answer is : 0.9268894249810967
+
+End Time =13:41:56
+
+
+
+
+
+
+
+
+Start Time =13:41:56
+	------------------------------------------------------------------Creating the Finite State Machine------------------------------------------------------------------
+	Done creating the Finite State Machine!
+	----------------------------------------------------------------From now on we are testing the parser----------------------------------------------------------------
+
+	Current Time =13:41:56
+	Trace number 0 : 
+	Accepted Events Number = 514850
+	Total number of events = 555460
+	Number of traces = 1
+	The final answer is : 0.9268894249810967
+
+End Time =13:41:58
+
+
+
+
+
+
+
+
+Start Time =13:41:58
+	------------------------------------------------------------------Creating the Finite State Machine------------------------------------------------------------------
+	Done creating the Finite State Machine!
+	----------------------------------------------------------------From now on we are testing the parser----------------------------------------------------------------
+
+	Current Time =13:41:58
+	Trace number 0 : 
+	Accepted Events Number = 514850
+	Total number of events = 555460
+	Number of traces = 1
+	The final answer is : 0.9268894249810967
+
+End Time =13:41:59
+
+
+
+
+
+
+
+
+Start Time =13:41:59
+	------------------------------------------------------------------Creating the Finite State Machine------------------------------------------------------------------
+	Done creating the Finite State Machine!
+	----------------------------------------------------------------From now on we are testing the parser----------------------------------------------------------------
+
+	Current Time =13:41:59
+	Trace number 0 : 
+	Accepted Events Number = 514850
+	Total number of events = 555460
+	Number of traces = 1
+	The final answer is : 0.9268894249810967
+
+End Time =13:42:00
+
+
+
+
+
+
+
+
+Start Time =13:45:08
+	------------------------------------------------------------------Creating the Finite State Machine------------------------------------------------------------------
+	Done creating the Finite State Machine!
+	----------------------------------------------------------------From now on we are testing the parser----------------------------------------------------------------
+
+	Current Time =13:45:08
+	Trace number 0 : 
+	Accepted Events Number = 120
+	Total number of events = 200
+	Number of traces = 1
+	The final answer is : 0.6
+
+End Time =13:45:08
+
+
+
+
+
+
+
+
+Start Time =13:45:08
+	------------------------------------------------------------------Creating the Finite State Machine------------------------------------------------------------------
+	Done creating the Finite State Machine!
+	----------------------------------------------------------------From now on we are testing the parser----------------------------------------------------------------
+
+	Current Time =13:45:08
+	Trace number 0 : 
+	Accepted Events Number = 120
+	Total number of events = 200
+	Number of traces = 1
+	The final answer is : 0.6
+
+End Time =13:45:08
+
+
+
+
+
+
+
+
+Start Time =13:45:08
+	------------------------------------------------------------------Creating the Finite State Machine------------------------------------------------------------------
+	Done creating the Finite State Machine!
+	----------------------------------------------------------------From now on we are testing the parser----------------------------------------------------------------
+
+	Current Time =13:45:08
+	Trace number 0 : 
+	Accepted Events Number = 120
+	Total number of events = 200
+	Number of traces = 1
+	The final answer is : 0.6
+
+End Time =13:45:08
+
+
+
+
+
+
+
+
+Start Time =13:45:08
+	------------------------------------------------------------------Creating the Finite State Machine------------------------------------------------------------------
+	Done creating the Finite State Machine!
+	----------------------------------------------------------------From now on we are testing the parser----------------------------------------------------------------
+
+	Current Time =13:45:08
+	Trace number 0 : 
+	Accepted Events Number = 120
+	Total number of events = 200
+	Number of traces = 1
+	The final answer is : 0.6
+
+End Time =13:45:08
+
+
+
+
+
+
+
+
+Start Time =13:45:08
+	------------------------------------------------------------------Creating the Finite State Machine------------------------------------------------------------------
+	Done creating the Finite State Machine!
+	----------------------------------------------------------------From now on we are testing the parser----------------------------------------------------------------
+
+	Current Time =13:45:08
+	Trace number 0 : 
+	Accepted Events Number = 120
+	Total number of events = 200
+	Number of traces = 1
+	The final answer is : 0.6
+
+End Time =13:45:08
+
+
+
+
+
+
+
+
+Start Time =13:45:08
+	------------------------------------------------------------------Creating the Finite State Machine------------------------------------------------------------------
+	Done creating the Finite State Machine!
+	----------------------------------------------------------------From now on we are testing the parser----------------------------------------------------------------
+
+	Current Time =13:45:08
+	Trace number 0 : 
+	Accepted Events Number = 120
+	Total number of events = 200
+	Number of traces = 1
+	The final answer is : 0.6
+
+End Time =13:45:08
+
+
+
+
+
+
+
+
+Start Time =13:45:08
+	------------------------------------------------------------------Creating the Finite State Machine------------------------------------------------------------------
+	Done creating the Finite State Machine!
+	----------------------------------------------------------------From now on we are testing the parser----------------------------------------------------------------
+
+	Current Time =13:45:08
+	Trace number 0 : 
+	Accepted Events Number = 120
+	Total number of events = 200
+	Number of traces = 1
+	The final answer is : 0.6
+
+End Time =13:45:08
+
+
+
+
+
+
+
+
+Start Time =14:05:25
+	------------------------------------------------------------------Creating the Finite State Machine------------------------------------------------------------------
+	Done creating the Finite State Machine!
+	----------------------------------------------------------------From now on we are testing the parser----------------------------------------------------------------
+
+	Current Time =14:05:25
+	Trace number 0 : 
+	Accepted Events Number = 120
+	Total number of events = 200
+	Number of traces = 1
+	The final answer is : 0.6
+
+End Time =14:05:25
+
+
+
+
+
+
+
+
+Start Time =14:05:25
+	------------------------------------------------------------------Creating the Finite State Machine------------------------------------------------------------------
+	Done creating the Finite State Machine!
+	----------------------------------------------------------------From now on we are testing the parser----------------------------------------------------------------
+
+	Current Time =14:05:25
+	Trace number 0 : 
+	Accepted Events Number = 120
+	Total number of events = 200
+	Number of traces = 1
+	The final answer is : 0.6
+
+End Time =14:05:25
+
+
+
+
+
+
+
+
+Start Time =14:05:25
+	------------------------------------------------------------------Creating the Finite State Machine------------------------------------------------------------------
+	Done creating the Finite State Machine!
+	----------------------------------------------------------------From now on we are testing the parser----------------------------------------------------------------
+
+	Current Time =14:05:25
+	Trace number 0 : 
+	Accepted Events Number = 120
+	Total number of events = 200
+	Number of traces = 1
+	The final answer is : 0.6
+
+End Time =14:05:25
+
+
+
+
+
+
+
+
+Start Time =14:05:25
+	------------------------------------------------------------------Creating the Finite State Machine------------------------------------------------------------------
+	Done creating the Finite State Machine!
+	----------------------------------------------------------------From now on we are testing the parser----------------------------------------------------------------
+
+	Current Time =14:05:25
+	Trace number 0 : 
+	Accepted Events Number = 120
+	Total number of events = 200
+	Number of traces = 1
+	The final answer is : 0.6
+
+End Time =14:05:25
+
+
+
+
+
+
+
+
+Start Time =14:05:25
+	------------------------------------------------------------------Creating the Finite State Machine------------------------------------------------------------------
+	Done creating the Finite State Machine!
+	----------------------------------------------------------------From now on we are testing the parser----------------------------------------------------------------
+
+	Current Time =14:05:25
+	Trace number 0 : 
+	Accepted Events Number = 120
+	Total number of events = 200
+	Number of traces = 1
+	The final answer is : 0.6
+
+End Time =14:05:25
+
+
+
+
+
+
+
+
+Start Time =14:05:25
+	------------------------------------------------------------------Creating the Finite State Machine------------------------------------------------------------------
+	Done creating the Finite State Machine!
+	----------------------------------------------------------------From now on we are testing the parser----------------------------------------------------------------
+
+	Current Time =14:05:25
+	Trace number 0 : 
+	Accepted Events Number = 120
+	Total number of events = 200
+	Number of traces = 1
+	The final answer is : 0.6
+
+End Time =14:05:25
+
+
+
+
+
+
+
+
+Start Time =14:05:25
+	------------------------------------------------------------------Creating the Finite State Machine------------------------------------------------------------------
+	Done creating the Finite State Machine!
+	----------------------------------------------------------------From now on we are testing the parser----------------------------------------------------------------
+
+	Current Time =14:05:25
+	Trace number 0 : 
+	Accepted Events Number = 120
+	Total number of events = 200
+	Number of traces = 1
+	The final answer is : 0.6
+
+End Time =14:05:25
+
+
+
+
+
+
+
+
+Start Time =14:28:55
+	------------------------------------------------------------------Creating the Finite State Machine------------------------------------------------------------------
+	Done creating the Finite State Machine!
+	----------------------------------------------------------------From now on we are testing the parser----------------------------------------------------------------
+
+	Current Time =14:28:55
+	Trace number 0 : 
+	Accepted Events Number = 0
+	Total number of events = 24420
+	Number of traces = 1
+	The final answer is : 0.0
+
+End Time =14:28:55
+
+
+
+
+
+
+
+
+Start Time =14:28:55
+	------------------------------------------------------------------Creating the Finite State Machine------------------------------------------------------------------
+	Done creating the Finite State Machine!
+	----------------------------------------------------------------From now on we are testing the parser----------------------------------------------------------------
+
+	Current Time =14:28:55
+	Trace number 0 : 
+	Accepted Events Number = 0
+	Total number of events = 24420
+	Number of traces = 1
+	The final answer is : 0.0
+
+End Time =14:28:55
+
+
+
+
+
+
+
+
+Start Time =14:28:55
+	------------------------------------------------------------------Creating the Finite State Machine------------------------------------------------------------------
+	Done creating the Finite State Machine!
+	----------------------------------------------------------------From now on we are testing the parser----------------------------------------------------------------
+
+	Current Time =14:28:55
+	Trace number 0 : 
+	Accepted Events Number = 0
+	Total number of events = 24420
+	Number of traces = 1
+	The final answer is : 0.0
+
+End Time =14:28:55
+
+
+
+
+
+
+
+
+Start Time =14:28:55
+	------------------------------------------------------------------Creating the Finite State Machine------------------------------------------------------------------
+	Done creating the Finite State Machine!
+	----------------------------------------------------------------From now on we are testing the parser----------------------------------------------------------------
+
+	Current Time =14:28:55
+	Trace number 0 : 
+	Accepted Events Number = 0
+	Total number of events = 24420
+	Number of traces = 1
+	The final answer is : 0.0
+
+End Time =14:28:55
+
+
+
+
+
+
+
+
+Start Time =14:28:55
+	------------------------------------------------------------------Creating the Finite State Machine------------------------------------------------------------------
+	Done creating the Finite State Machine!
+	----------------------------------------------------------------From now on we are testing the parser----------------------------------------------------------------
+
+	Current Time =14:28:55
+	Trace number 0 : 
+	Accepted Events Number = 0
+	Total number of events = 24420
+	Number of traces = 1
+	The final answer is : 0.0
+
+End Time =14:28:55
+
+
+
+
+
+
+
+
+Start Time =14:28:55
+	------------------------------------------------------------------Creating the Finite State Machine------------------------------------------------------------------
+	Done creating the Finite State Machine!
+	----------------------------------------------------------------From now on we are testing the parser----------------------------------------------------------------
+
+	Current Time =14:28:55
+	Trace number 0 : 
+	Accepted Events Number = 0
+	Total number of events = 24420
+	Number of traces = 1
+	The final answer is : 0.0
+
+End Time =14:28:55
+
+
+
+
+
+
+
+
+Start Time =14:28:55
+	------------------------------------------------------------------Creating the Finite State Machine------------------------------------------------------------------
+	Done creating the Finite State Machine!
+	----------------------------------------------------------------From now on we are testing the parser----------------------------------------------------------------
+
+	Current Time =14:28:55
+	Trace number 0 : 
+	Accepted Events Number = 0
+	Total number of events = 24420
+	Number of traces = 1
+	The final answer is : 0.0
+
+End Time =14:28:55
+
+
+
+
+
+
+
+
+Start Time =14:28:55
+	------------------------------------------------------------------Creating the Finite State Machine------------------------------------------------------------------
+	Done creating the Finite State Machine!
+	----------------------------------------------------------------From now on we are testing the parser----------------------------------------------------------------
+
+	Current Time =14:28:55
+	Trace number 0 : 
+	Accepted Events Number = 0
+	Total number of events = 24420
+	Number of traces = 1
+	The final answer is : 0.0
+
+End Time =14:28:55
+
+
+
+
+
+
+
+
+Start Time =14:28:55
+	------------------------------------------------------------------Creating the Finite State Machine------------------------------------------------------------------
+	Done creating the Finite State Machine!
+	----------------------------------------------------------------From now on we are testing the parser----------------------------------------------------------------
+
+	Current Time =14:28:55
+	Trace number 0 : 
+	Accepted Events Number = 0
+	Total number of events = 24420
+	Number of traces = 1
+	The final answer is : 0.0
+
+End Time =14:28:55
+
+
+
+
+
+
+
+
+Start Time =14:28:55
+	------------------------------------------------------------------Creating the Finite State Machine------------------------------------------------------------------
+	Done creating the Finite State Machine!
+	----------------------------------------------------------------From now on we are testing the parser----------------------------------------------------------------
+
+	Current Time =14:28:55
+	Trace number 0 : 
+	Accepted Events Number = 0
+	Total number of events = 24420
+	Number of traces = 1
+	The final answer is : 0.0
+
+End Time =14:28:55
+
+
+
+
+
+
+
+
+Start Time =14:28:55
+	------------------------------------------------------------------Creating the Finite State Machine------------------------------------------------------------------
+	Done creating the Finite State Machine!
+	----------------------------------------------------------------From now on we are testing the parser----------------------------------------------------------------
+
+	Current Time =14:28:55
+	Trace number 0 : 
+	Accepted Events Number = 0
+	Total number of events = 24420
+	Number of traces = 1
+	The final answer is : 0.0
+
+End Time =14:28:55
+
+
+
+
+
+
+
+
+Start Time =14:28:55
+	------------------------------------------------------------------Creating the Finite State Machine------------------------------------------------------------------
+	Done creating the Finite State Machine!
+	----------------------------------------------------------------From now on we are testing the parser----------------------------------------------------------------
+
+	Current Time =14:28:55
+	Trace number 0 : 
+	Accepted Events Number = 0
+	Total number of events = 24420
+	Number of traces = 1
+	The final answer is : 0.0
+
+End Time =14:28:56
+
+
+
+
+
+
+
+
+Start Time =14:28:56
+	------------------------------------------------------------------Creating the Finite State Machine------------------------------------------------------------------
+	Done creating the Finite State Machine!
+	----------------------------------------------------------------From now on we are testing the parser----------------------------------------------------------------
+
+	Current Time =14:28:56
+	Trace number 0 : 
+	Accepted Events Number = 0
+	Total number of events = 24420
+	Number of traces = 1
+	The final answer is : 0.0
+
+End Time =14:28:56
+
+
+
+
+
+
+
+
+Start Time =14:28:56
+	------------------------------------------------------------------Creating the Finite State Machine------------------------------------------------------------------
+	Done creating the Finite State Machine!
+	----------------------------------------------------------------From now on we are testing the parser----------------------------------------------------------------
+
+	Current Time =14:28:56
+	Trace number 0 : 
+	Accepted Events Number = 0
+	Total number of events = 24420
+	Number of traces = 1
+	The final answer is : 0.0
+
+End Time =14:28:56
+
+
+
+
+
+
+
+
+Start Time =14:28:56
+	------------------------------------------------------------------Creating the Finite State Machine------------------------------------------------------------------
+	Done creating the Finite State Machine!
+	----------------------------------------------------------------From now on we are testing the parser----------------------------------------------------------------
+
+	Current Time =14:28:56
+	Trace number 0 : 
+	Accepted Events Number = 0
+	Total number of events = 24420
+	Number of traces = 1
+	The final answer is : 0.0
+
+End Time =14:28:56
+
+
+
+
+
+
+
+
+Start Time =14:28:56
+	------------------------------------------------------------------Creating the Finite State Machine------------------------------------------------------------------
+	Done creating the Finite State Machine!
+	----------------------------------------------------------------From now on we are testing the parser----------------------------------------------------------------
+
+	Current Time =14:28:56
+	Trace number 0 : 
+	Accepted Events Number = 0
+	Total number of events = 24420
+	Number of traces = 1
+	The final answer is : 0.0
+
+End Time =14:28:56
+
+
+
+
+
+
+
+
+Start Time =14:28:56
+	------------------------------------------------------------------Creating the Finite State Machine------------------------------------------------------------------
+	Done creating the Finite State Machine!
+	----------------------------------------------------------------From now on we are testing the parser----------------------------------------------------------------
+
+	Current Time =14:28:56
+	Trace number 0 : 
+	Accepted Events Number = 0
+	Total number of events = 24420
+	Number of traces = 1
+	The final answer is : 0.0
+
+End Time =14:28:56
+
+
+
+
+
+
+
+
+Start Time =14:28:56
+	------------------------------------------------------------------Creating the Finite State Machine------------------------------------------------------------------
+	Done creating the Finite State Machine!
+	----------------------------------------------------------------From now on we are testing the parser----------------------------------------------------------------
+
+	Current Time =14:28:56
+	Trace number 0 : 
+	Accepted Events Number = 0
+	Total number of events = 24420
+	Number of traces = 1
+	The final answer is : 0.0
+
+End Time =14:28:56
+
+
+
+
+
+
+
+
+Start Time =14:28:56
+	------------------------------------------------------------------Creating the Finite State Machine------------------------------------------------------------------
+	Done creating the Finite State Machine!
+	----------------------------------------------------------------From now on we are testing the parser----------------------------------------------------------------
+
+	Current Time =14:28:56
+	Trace number 0 : 
+	Accepted Events Number = 0
+	Total number of events = 24420
+	Number of traces = 1
+	The final answer is : 0.0
+
+End Time =14:28:56
+
+
+
+
+
+
+
+
+Start Time =14:28:56
+	------------------------------------------------------------------Creating the Finite State Machine------------------------------------------------------------------
+	Done creating the Finite State Machine!
+	----------------------------------------------------------------From now on we are testing the parser----------------------------------------------------------------
+
+	Current Time =14:28:56
+	Trace number 0 : 
+	Accepted Events Number = 0
+	Total number of events = 24420
+	Number of traces = 1
+	The final answer is : 0.0
+
+End Time =14:28:56
+
+
+
+
+
+
+
+
+Start Time =14:28:56
+	------------------------------------------------------------------Creating the Finite State Machine------------------------------------------------------------------
+	Done creating the Finite State Machine!
+	----------------------------------------------------------------From now on we are testing the parser----------------------------------------------------------------
+
+	Current Time =14:28:56
+	Trace number 0 : 
+	Accepted Events Number = 0
+	Total number of events = 24420
+	Number of traces = 1
+	The final answer is : 0.0
+
+End Time =14:28:56
+
+
+
+
+
+
+
+
+Start Time =14:28:56
+	------------------------------------------------------------------Creating the Finite State Machine------------------------------------------------------------------
+	Done creating the Finite State Machine!
+	----------------------------------------------------------------From now on we are testing the parser----------------------------------------------------------------
+
+	Current Time =14:28:56
+	Trace number 0 : 
+	Accepted Events Number = 0
+	Total number of events = 24420
+	Number of traces = 1
+	The final answer is : 0.0
+
+End Time =14:28:56
+
+
+
+
+
+
+
+
+Start Time =14:28:56
+	------------------------------------------------------------------Creating the Finite State Machine------------------------------------------------------------------
+	Done creating the Finite State Machine!
+	----------------------------------------------------------------From now on we are testing the parser----------------------------------------------------------------
+
+	Current Time =14:28:56
+	Trace number 0 : 
+	Accepted Events Number = 0
+	Total number of events = 24420
+	Number of traces = 1
+	The final answer is : 0.0
+
+End Time =14:28:56
+
+
+
+
+
+
+
+
+Start Time =14:28:56
+	------------------------------------------------------------------Creating the Finite State Machine------------------------------------------------------------------
+	Done creating the Finite State Machine!
+	----------------------------------------------------------------From now on we are testing the parser----------------------------------------------------------------
+
+	Current Time =14:28:56
+	Trace number 0 : 
+	Accepted Events Number = 0
+	Total number of events = 24420
+	Number of traces = 1
+	The final answer is : 0.0
+
+End Time =14:28:56
+
+
+
+
+
+
+
+
+Start Time =14:28:56
+	------------------------------------------------------------------Creating the Finite State Machine------------------------------------------------------------------
+	Done creating the Finite State Machine!
+	----------------------------------------------------------------From now on we are testing the parser----------------------------------------------------------------
+
+	Current Time =14:28:56
+	Trace number 0 : 
+	Accepted Events Number = 0
+	Total number of events = 24420
+	Number of traces = 1
+	The final answer is : 0.0
+
+End Time =14:28:56
+
+
+
+
+
+
+
+
+Start Time =14:28:56
+	------------------------------------------------------------------Creating the Finite State Machine------------------------------------------------------------------
+	Done creating the Finite State Machine!
+	----------------------------------------------------------------From now on we are testing the parser----------------------------------------------------------------
+
+	Current Time =14:28:56
+	Trace number 0 : 
+	Accepted Events Number = 0
+	Total number of events = 24420
+	Number of traces = 1
+	The final answer is : 0.0
+
+End Time =14:28:56
+
+
+
+
+
+
+
+
+Start Time =14:30:49
+	------------------------------------------------------------------Creating the Finite State Machine------------------------------------------------------------------
+	Done creating the Finite State Machine!
+	----------------------------------------------------------------From now on we are testing the parser----------------------------------------------------------------
+
+	Current Time =14:30:49
+	Trace number 0 : 
+	Accepted Events Number = 0
+	Total number of events = 24420
+	Number of traces = 1
+	The final answer is : 0.0
+
+End Time =14:30:49
+
+
+
+
+
+
+
+
+Start Time =14:30:49
+	------------------------------------------------------------------Creating the Finite State Machine------------------------------------------------------------------
+	Done creating the Finite State Machine!
+	----------------------------------------------------------------From now on we are testing the parser----------------------------------------------------------------
+
+	Current Time =14:30:49
+	Trace number 0 : 
+	Accepted Events Number = 0
+	Total number of events = 24420
+	Number of traces = 1
+	The final answer is : 0.0
+
+End Time =14:30:49
+
+
+
+
+
+
+
+
+Start Time =14:30:49
+	------------------------------------------------------------------Creating the Finite State Machine------------------------------------------------------------------
+	Done creating the Finite State Machine!
+	----------------------------------------------------------------From now on we are testing the parser----------------------------------------------------------------
+
+	Current Time =14:30:49
+	Trace number 0 : 
+	Accepted Events Number = 0
+	Total number of events = 24420
+	Number of traces = 1
+	The final answer is : 0.0
+
+End Time =14:30:49
+
+
+
+
+
+
+
+
+Start Time =14:30:49
+	------------------------------------------------------------------Creating the Finite State Machine------------------------------------------------------------------
+	Done creating the Finite State Machine!
+	----------------------------------------------------------------From now on we are testing the parser----------------------------------------------------------------
+
+	Current Time =14:30:49
+	Trace number 0 : 
+	Accepted Events Number = 0
+	Total number of events = 24420
+	Number of traces = 1
+	The final answer is : 0.0
+
+End Time =14:30:49
+
+
+
+
+
+
+
+
+Start Time =14:30:49
+	------------------------------------------------------------------Creating the Finite State Machine------------------------------------------------------------------
+	Done creating the Finite State Machine!
+	----------------------------------------------------------------From now on we are testing the parser----------------------------------------------------------------
+
+	Current Time =14:30:49
+	Trace number 0 : 
+	Accepted Events Number = 0
+	Total number of events = 24420
+	Number of traces = 1
+	The final answer is : 0.0
+
+End Time =14:30:49
+
+
+
+
+
+
+
+
+Start Time =14:30:49
+	------------------------------------------------------------------Creating the Finite State Machine------------------------------------------------------------------
+	Done creating the Finite State Machine!
+	----------------------------------------------------------------From now on we are testing the parser----------------------------------------------------------------
+
+	Current Time =14:30:49
+	Trace number 0 : 
+	Accepted Events Number = 0
+	Total number of events = 24420
+	Number of traces = 1
+	The final answer is : 0.0
+
+End Time =14:30:49
+
+
+
+
+
+
+
+
+Start Time =14:30:49
+	------------------------------------------------------------------Creating the Finite State Machine------------------------------------------------------------------
+	Done creating the Finite State Machine!
+	----------------------------------------------------------------From now on we are testing the parser----------------------------------------------------------------
+
+	Current Time =14:30:49
+	Trace number 0 : 
+	Accepted Events Number = 0
+	Total number of events = 24420
+	Number of traces = 1
+	The final answer is : 0.0
+
+End Time =14:30:49
+
+
+
+
+
+
+
+
+Start Time =14:30:49
+	------------------------------------------------------------------Creating the Finite State Machine------------------------------------------------------------------
+	Done creating the Finite State Machine!
+	----------------------------------------------------------------From now on we are testing the parser----------------------------------------------------------------
+
+	Current Time =14:30:49
+	Trace number 0 : 
+	Accepted Events Number = 0
+	Total number of events = 24420
+	Number of traces = 1
+	The final answer is : 0.0
+
+End Time =14:30:50
+
+
+
+
+
+
+
+
+Start Time =14:30:50
+	------------------------------------------------------------------Creating the Finite State Machine------------------------------------------------------------------
+	Done creating the Finite State Machine!
+	----------------------------------------------------------------From now on we are testing the parser----------------------------------------------------------------
+
+	Current Time =14:30:50
+	Trace number 0 : 
+	Accepted Events Number = 0
+	Total number of events = 24420
+	Number of traces = 1
+	The final answer is : 0.0
+
+End Time =14:30:50
+
+
+
+
+
+
+
+
+Start Time =14:30:50
+	------------------------------------------------------------------Creating the Finite State Machine------------------------------------------------------------------
+	Done creating the Finite State Machine!
+	----------------------------------------------------------------From now on we are testing the parser----------------------------------------------------------------
+
+	Current Time =14:30:50
+	Trace number 0 : 
+	Accepted Events Number = 0
+	Total number of events = 24420
+	Number of traces = 1
+	The final answer is : 0.0
+
+End Time =14:30:50
+
+
+
+
+
+
+
+
+Start Time =14:30:50
+	------------------------------------------------------------------Creating the Finite State Machine------------------------------------------------------------------
+	Done creating the Finite State Machine!
+	----------------------------------------------------------------From now on we are testing the parser----------------------------------------------------------------
+
+	Current Time =14:30:50
+	Trace number 0 : 
+	Accepted Events Number = 0
+	Total number of events = 24420
+	Number of traces = 1
+	The final answer is : 0.0
+
+End Time =14:30:50
+
+
+
+
+
+
+
+
+Start Time =14:30:50
+	------------------------------------------------------------------Creating the Finite State Machine------------------------------------------------------------------
+	Done creating the Finite State Machine!
+	----------------------------------------------------------------From now on we are testing the parser----------------------------------------------------------------
+
+	Current Time =14:30:50
+	Trace number 0 : 
+	Accepted Events Number = 0
+	Total number of events = 24420
+	Number of traces = 1
+	The final answer is : 0.0
+
+End Time =14:30:50
+
+
+
+
+
+
+
+
+Start Time =14:30:50
+	------------------------------------------------------------------Creating the Finite State Machine------------------------------------------------------------------
+	Done creating the Finite State Machine!
+	----------------------------------------------------------------From now on we are testing the parser----------------------------------------------------------------
+
+	Current Time =14:30:50
+	Trace number 0 : 
+	Accepted Events Number = 0
+	Total number of events = 24420
+	Number of traces = 1
+	The final answer is : 0.0
+
+End Time =14:30:50
+
+
+
+
+
+
+
+
+Start Time =14:30:50
+	------------------------------------------------------------------Creating the Finite State Machine------------------------------------------------------------------
+	Done creating the Finite State Machine!
+	----------------------------------------------------------------From now on we are testing the parser----------------------------------------------------------------
+
+	Current Time =14:30:50
+	Trace number 0 : 
+	Accepted Events Number = 0
+	Total number of events = 24420
+	Number of traces = 1
+	The final answer is : 0.0
+
+End Time =14:30:50
+
+
+
+
+
+
+
+
+Start Time =14:30:50
+	------------------------------------------------------------------Creating the Finite State Machine------------------------------------------------------------------
+	Done creating the Finite State Machine!
+	----------------------------------------------------------------From now on we are testing the parser----------------------------------------------------------------
+
+	Current Time =14:30:50
+	Trace number 0 : 
+	Accepted Events Number = 0
+	Total number of events = 24420
+	Number of traces = 1
+	The final answer is : 0.0
+
+End Time =14:30:50
+
+
+
+
+
+
+
+
+Start Time =14:30:50
+	------------------------------------------------------------------Creating the Finite State Machine------------------------------------------------------------------
+	Done creating the Finite State Machine!
+	----------------------------------------------------------------From now on we are testing the parser----------------------------------------------------------------
+
+	Current Time =14:30:50
+	Trace number 0 : 
+	Accepted Events Number = 0
+	Total number of events = 24420
+	Number of traces = 1
+	The final answer is : 0.0
+
+End Time =14:30:50
+
+
+
+
+
+
+
+
+Start Time =14:30:50
+	------------------------------------------------------------------Creating the Finite State Machine------------------------------------------------------------------
+	Done creating the Finite State Machine!
+	----------------------------------------------------------------From now on we are testing the parser----------------------------------------------------------------
+
+	Current Time =14:30:50
+	Trace number 0 : 
+	Accepted Events Number = 0
+	Total number of events = 24420
+	Number of traces = 1
+	The final answer is : 0.0
+
+End Time =14:30:50
+
+
+
+
+
+
+
+
+Start Time =14:30:50
+	------------------------------------------------------------------Creating the Finite State Machine------------------------------------------------------------------
+	Done creating the Finite State Machine!
+	----------------------------------------------------------------From now on we are testing the parser----------------------------------------------------------------
+
+	Current Time =14:30:50
+	Trace number 0 : 
+	Accepted Events Number = 0
+	Total number of events = 24420
+	Number of traces = 1
+	The final answer is : 0.0
+
+End Time =14:30:50
+
+
+
+
+
+
+
+
+Start Time =14:30:50
+	------------------------------------------------------------------Creating the Finite State Machine------------------------------------------------------------------
+	Done creating the Finite State Machine!
+	----------------------------------------------------------------From now on we are testing the parser----------------------------------------------------------------
+
+	Current Time =14:30:50
+	Trace number 0 : 
+	Accepted Events Number = 0
+	Total number of events = 24420
+	Number of traces = 1
+	The final answer is : 0.0
+
+End Time =14:30:50
+
+
+
+
+
+
+
+
+Start Time =14:30:50
+	------------------------------------------------------------------Creating the Finite State Machine------------------------------------------------------------------
+	Done creating the Finite State Machine!
+	----------------------------------------------------------------From now on we are testing the parser----------------------------------------------------------------
+
+	Current Time =14:30:50
+	Trace number 0 : 
+	Accepted Events Number = 0
+	Total number of events = 24420
+	Number of traces = 1
+	The final answer is : 0.0
+
+End Time =14:30:50
+
+
+
+
+
+
+
+
+Start Time =14:30:50
+	------------------------------------------------------------------Creating the Finite State Machine------------------------------------------------------------------
+	Done creating the Finite State Machine!
+	----------------------------------------------------------------From now on we are testing the parser----------------------------------------------------------------
+
+	Current Time =14:30:50
+	Trace number 0 : 
+	Accepted Events Number = 0
+	Total number of events = 24420
+	Number of traces = 1
+	The final answer is : 0.0
+
+End Time =14:30:50
+
+
+
+
+
+
+
+
+Start Time =14:30:50
+	------------------------------------------------------------------Creating the Finite State Machine------------------------------------------------------------------
+	Done creating the Finite State Machine!
+	----------------------------------------------------------------From now on we are testing the parser----------------------------------------------------------------
+
+	Current Time =14:30:50
+	Trace number 0 : 
+	Accepted Events Number = 0
+	Total number of events = 24420
+	Number of traces = 1
+	The final answer is : 0.0
+
+End Time =14:30:50
+
+
+
+
+
+
+
+
+Start Time =14:30:50
+	------------------------------------------------------------------Creating the Finite State Machine------------------------------------------------------------------
+	Done creating the Finite State Machine!
+	----------------------------------------------------------------From now on we are testing the parser----------------------------------------------------------------
+
+	Current Time =14:30:50
+	Trace number 0 : 
+	Accepted Events Number = 0
+	Total number of events = 24420
+	Number of traces = 1
+	The final answer is : 0.0
+
+End Time =14:30:50
+
+
+
+
+
+
+
+
+Start Time =14:30:50
+	------------------------------------------------------------------Creating the Finite State Machine------------------------------------------------------------------
+	Done creating the Finite State Machine!
+	----------------------------------------------------------------From now on we are testing the parser----------------------------------------------------------------
+
+	Current Time =14:30:50
+	Trace number 0 : 
+	Accepted Events Number = 0
+	Total number of events = 24420
+	Number of traces = 1
+	The final answer is : 0.0
+
+End Time =14:30:50
+
+
+
+
+
+
+
+
+Start Time =14:30:50
+	------------------------------------------------------------------Creating the Finite State Machine------------------------------------------------------------------
+	Done creating the Finite State Machine!
+	----------------------------------------------------------------From now on we are testing the parser----------------------------------------------------------------
+
+	Current Time =14:30:50
+	Trace number 0 : 
+	Accepted Events Number = 0
+	Total number of events = 24420
+	Number of traces = 1
+	The final answer is : 0.0
+
+End Time =14:30:50
+
+
+
+
+
+
+
+
+Start Time =14:30:50
+	------------------------------------------------------------------Creating the Finite State Machine------------------------------------------------------------------
+	Done creating the Finite State Machine!
+	----------------------------------------------------------------From now on we are testing the parser----------------------------------------------------------------
+
+	Current Time =14:30:50
+	Trace number 0 : 
+	Accepted Events Number = 0
+	Total number of events = 24420
+	Number of traces = 1
+	The final answer is : 0.0
+
+End Time =14:30:50
+
+
+
+
+
+
+
+
+Start Time =14:34:38
+	------------------------------------------------------------------Creating the Finite State Machine------------------------------------------------------------------
+	Done creating the Finite State Machine!
+	----------------------------------------------------------------From now on we are testing the parser----------------------------------------------------------------
+
+	Current Time =14:34:38
+	Trace number 0 : 
+	Accepted Events Number = 184408
+	Total number of events = 186972
+	Number of traces = 1
+	The final answer is : 0.9862867167276383
+
+End Time =14:34:38
+
+
+
+
+
+
+

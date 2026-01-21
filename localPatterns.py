@@ -194,8 +194,8 @@ if __name__ == '__main__':
         pruned_graph = functions.pruningGraph(graph.networkxGraph, graph, "synthetic")
     # 
 
-    # print("Starting nodes = ", graph.myInitialNodes)
-    # print("Ending nodes = ",   graph.myTerminalNodes, "\n")
+    print("Starting nodes = ", graph.myInitialNodes)
+    print("Ending nodes = ",   graph.myTerminalNodes, "\n")
     # exit()
     print(graph.finalCorrespondingTerminalArray)
     

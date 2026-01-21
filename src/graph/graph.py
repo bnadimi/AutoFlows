@@ -32,6 +32,7 @@ class Graph:
         self.terminal_nodes = {}
         self.edges = {}
         self.all_messages = []
+        self.interfaces = []
 
         self.networkxGraph = nx.DiGraph()
         self.maxInitials = 0
@@ -126,6 +127,22 @@ class Graph:
                 message = tokens  # (origin, destination)
                 print("Symbol index = ", symbol_index, " Origin = ", origin, " Destination = ", destination, " Command = ", command, " Msg type = ", msg_type)
 
+
+                ############################################################################################################################################## By Bardia Start for interface slicing 
+                # Add or update entry in self.interfaces where each entry has {"pairs": (comp1, comp2), "list": [symbol_indexes]}
+                component_pair = (origin, destination)
+                flipped_component_pair = (destination, origin)
+                pair_exists = False
+                for entry in self.interfaces:
+                    if entry["pairs"] == component_pair or entry["pairs"] == flipped_component_pair:
+                        entry["list"].append(symbol_index)
+                        pair_exists = True
+                        break
+                if not pair_exists and component_pair != flipped_component_pair:
+                    self.interfaces.append({"pairs": component_pair, "list": [symbol_index]})
+                    # self.interfaces.append({"pairs": flipped_component_pair, "list": [symbol_index]})
+                ############################################################################################################################################## By Bardia end
+
                 if not self.has_node(symbol_index):
                     node = Node(self, symbol_index, message, command, msg_type)
                     self.add_node(node)
@@ -192,6 +209,8 @@ class Graph:
                 for i in range(1, len(tokens)):
                     tempList.append(tokens[i])
                 self.cmdRelatedList.append(tempList)
+
+            # print("Interfaces = ", self.interfaces)
 
         f.close()
 
@@ -494,6 +513,9 @@ class Graph:
                 #     break
 
             trace_fp.close()
+        print("Length of trace = ", traces)
+        print(f"Length of all messages = {len(self.all_messages)}")
+        print(f"Length of traces = {len(self.trace_tokens)}")
 
     def process_trace(self, raw_trace):
         # @ Tables of messags from the trace
@@ -547,11 +569,12 @@ class Graph:
         
         print("Length of trace = ", len(self.trace_tokens))
         print("Length of buggy trace = ", len(buggyTrace))
-        save_buggy_trace = open("buggy-trace.txt", "w")
-        # f = open("reducedTrace.txt", "w")
-        for i in buggyTrace:
-            save_buggy_trace.write(str(i) + " ")
-        save_buggy_trace.close()
+
+        # save_buggy_trace = open("buggy-trace.txt", "w")
+        # # f = open("reducedTrace.txt", "w")
+        # for i in buggyTrace:
+        #     save_buggy_trace.write(str(i) + " ")
+        # save_buggy_trace.close()
         # exit()
 
         # ## spliting traces for individual interfaces
