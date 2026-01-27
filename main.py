@@ -24,15 +24,17 @@ if __name__ == '__main__':
     max_solutions = 10
     def_f = ""
     trace_f = ""
+    # interfaceSlicing = True
+    interfaceSlicing = False
 
     # Uncomment corresponding lines to genearte solutions for different traces
     # For gem5 traces
 
     # Full system (FS) simulation traces
     # def_f = './traces/gem5_traces/fs/definition/fs_def.msg'
-    # def_f = './traces/gem5_traces/fs/definition/def-FS-RublePrintFormat.msg'
+    def_f = './traces/gem5_traces/fs/definition/def-FS-RublePrintFormat.msg'
     # fs unsliced
-    # trace_f = ['./traces/gem5_traces/fs/unsliced/unsliced0.jbl']
+    trace_f = ['./traces/gem5_traces/fs/unsliced/unsliced0.jbl']
     # trace_f = ['./traces/gem5_traces/fs/unsliced/fs_boot_unsliced.txt']
     # fs packet id sliced
     # trace_f = ['./traces/gem5_traces/fs/packet_sliced/packet_sliced.jbl']
@@ -69,7 +71,7 @@ if __name__ == '__main__':
 
 
     # For synthetic traces
-    def_f = './traces/synthetic/newLarge.msg'
+    # def_f = './traces/synthetic/newLarge.msg'
     # def_f = './traces/synthetic/large.msg'
     # def_f = './traces/synthetic/medium.msg'
     # def_f = './traces/synthetic/small.msg'
@@ -86,7 +88,7 @@ if __name__ == '__main__':
 
     # large traces
     # trace_f = ['./traces/synthetic/trace-large-5.txt']
-    trace_f = ['./traces/synthetic/trace-large-10.txt']
+    # trace_f = ['./traces/synthetic/trace-large-10.txt']
     # trace_f = ['./traces/synthetic/trace-large-20.txt']
     # trace_f = ['./traces/synthetic/new-trace-large-20.txt']
 
@@ -103,21 +105,21 @@ if __name__ == '__main__':
     # def_f   = './traces/fromTCAD/gem5/threads/definition/defThreads-RubelPrintFormat.msg'
     # trace_f = ['./traces/fromTCAD/gem5/threads/architecturalSliced/totalSliced.jbl']
 
-    def_f   = './traces/fromTCAD/gem5/snoop/definition/defSnoop-RubelPrintFormat.msg'
+    # def_f   = './traces/fromTCAD/gem5/snoop/definition/defSnoop-RubelPrintFormat.msg'
     # trace_f = ['./traces/fromTCAD/gem5/snoop/architecturalSliced/totalSliced.jbl']
-    trace_f = ['./traces/fromTCAD/gem5/snoop/unsliced/unsliced-RubelPrintFormat.jbl']
+    # trace_f = ['./traces/fromTCAD/gem5/snoop/unsliced/unsliced-RubelPrintFormat.jbl']
     # trace_f = ['buggy-trace.txt']
 
     # def_f   = './traces/fromTCAD/gem5/threads/definition/defThreads-RubelPrintFormat.msg'
     # trace_f = ['./traces/fromTCAD/gem5/threads/unsliced/unsliced-RubelPrintFormat.jbl']
 
 
-    def_f = './traces/synthetic/newLarge.msg'
+    # def_f = './traces/synthetic/newLarge.msg'
     # trace_f = ['/home/bardia/GitHub/AutoFlows/interface_sliced_traces/trace-large-5/interface_sliced_v3_audio_membus.txt']
-    trace_f = ['/home/bardia/GitHub/AutoFlows/interface_sliced_traces/trace-large-5/interface_sliced_v3_gfx_membus.txt']
+    # trace_f = ['/home/bardia/GitHub/AutoFlows/interface_sliced_traces/trace-large-5/interface_sliced_v3_gfx_membus.txt']
     
-    def_f   = './traces/fromTCAD/gem5/snoop/definition/defSnoop-RubelPrintFormat.msg'
-    trace_f = ['/home/bardia/GitHub/AutoFlows/interface_sliced_traces/unsliced-RubelPrintFormat/interface_sliced_v3_cpu0_dcache0.txt']
+    # def_f   = './traces/fromTCAD/gem5/snoop/definition/defSnoop-RubelPrintFormat.msg'
+    # trace_f = ['/home/bardia/GitHub/AutoFlows/interface_sliced_traces/unsliced-RubelPrintFormat/interface_sliced_v3_cpu0_dcache0.txt']
 
     # essential_mode = False
     # essential_edges_array = []
@@ -162,6 +164,17 @@ if __name__ == '__main__':
     log('Reading the trace file(s) %s... ' % trace_f)
     graph.read_trace_file_list(trace_f)
     log('Trace reading and processing status: Done\n\n')
+
+    ######################################################################## Interface Slicing ########################################################################
+
+    selected_BP_graph     = nx.DiGraph()
+    not_selected_BP_graph = nx.DiGraph()
+    if interfaceSlicing:
+        selected_BP_graph, not_selected_BP_graph = functions.interface_slicing(trace_f, def_f, graph)
+    # print(not_selected_BP_graph)
+    # print("Done with interface slicing!")
+    # print(not_selected_BP_graph.edges())
+    # exit()
 
     ######################################################################## Start ########################################################################
 
@@ -233,9 +246,9 @@ if __name__ == '__main__':
 
 
     if "gem5" in def_f:
-        pruned_graph = functions.pruningGraph(graph.networkxGraph, graph, "gem5")
+        pruned_graph = functions.pruningGraph(graph.networkxGraph, graph, "gem5", not_selected_BP_graph, interface_slicing=interfaceSlicing)
     else:
-        pruned_graph = functions.pruningGraph(graph.networkxGraph, graph, "synthetic")
+        pruned_graph = functions.pruningGraph(graph.networkxGraph, graph, "synthetic", not_selected_BP_graph, interface_slicing=interfaceSlicing)
 
     # print("Starting nodes = ", graph.myInitialNodes)
     # print("Ending nodes = ",   graph.myTerminalNodes, "\n")
